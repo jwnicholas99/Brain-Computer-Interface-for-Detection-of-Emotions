@@ -1,0 +1,3 @@
+﻿ExtAmp
+BCILibCS.dll
+StartAmplifier.exe

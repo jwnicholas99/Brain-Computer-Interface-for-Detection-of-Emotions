@@ -1,0 +1,1660 @@
+2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+29_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+annel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout 61871408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout F8B1408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout F531408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout 64261408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout 54591408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout 63AA1408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout 63D11408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout 63A41408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout 6B6C1408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout 59B41408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout 5BCA1408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout 5C351408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout 5BCA1408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout 56421408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.
+ConsoleRedirect.cpp: stdout 5BAF1408/4
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_2.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '8'
+Model_F: 8 ...
+Feature 2 -> (0,0,1)
+Feature 3 -> (0,0,23)
+Feature 4 -> (1,0,0)
+Feature 5 -> (1,0,24)
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 20 -> (5,0,0)
+Feature 21 -> (5,0,24)
+Read 'Model_Training_Feature_Hex' = '144, 8'
+Model_Training_Feature: 144, 8
+Load model ends. spl_start=0, spl_end=625.
+Load MultiTimeMIModel file Model\MI_20140729_tectrain20141112-133231_3.txt ...
+Read 'Sampling_Rate' = '250'
+Sampling_Rate=250
+Read 'EEG_Resolution_Hex' = '3FB00FD7A0000000'
+Resolution=0.062742
+Read 'Channel_Order' = '40'
+Channel_Order: HEOL,HEOR,Fp1,Fp2,VEOU,VEOL,F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,A1,P7,P3,Pz,P4,P8,A2,O1,Oz,O2,FT9,FT10,PO1,PO2
+
+Read 'Channel_Used' = '25'
+Channel Used:F7,F3,Fz,F4,F8,FT7,FC3,FCz,FC4,FT8,T7,C3,Cz,C4,T8,TP7,CP3,CPz,CP4,TP8,P7,P3,Pz,P4,P8
+
+Read 'Processing_Start_Sample' = '0'
+Processing_Start_Sample:0
+Read 'Processing_End_Sample' = '625'
+Processing_End_Sample: 625
+Read 'FileterBank' = '9'
+FileterBank nf=9
+Band 1 ... Done.
+Band 2 ... Done.
+Band 3 ... Done.
+Band 4 ... Done.
+Band 5 ... Done.
+Band 6 ... Done.
+Band 7 ... Done.
+Band 8 ... Done.
+Band 9 ... Done.
+Read 'Model_M' = '2'
+Model_M:2
+Read 'Model_TimeSeg' = '1, 2'
+Model_TimeSeg: 1 ... 
+(0.500000 - 2.500000) --> (124, 501)
+Read 'CSP_Transform_Bands' = '9, 1'
+CSP_Transform_Bands: 9, 1 ...
+1 2 3 4 5 6 7 8 9 
+Read 'Model_F' = '6'
+Model_F: 6 ...
+Feature 10 -> (2,0,1)
+Feature 11 -> (2,0,23)
+Feature 12 -> (3,0,0)
+Feature 13 -> (3,0,24)
+Feature 14 -> (3,0,1)
+Feature 15 -> (3,0,23)
+Read 'Model_Training_Feature_Hex' = '144, 6'
+Model_Training_Feature: 144, 6
+Load model ends. spl_start=0, spl_end=625.

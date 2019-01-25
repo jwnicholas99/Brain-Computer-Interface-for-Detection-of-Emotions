@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartAmplifier", "StartAmplifier\StartAmplifier.csproj", "{5425D274-9813-436C-8A2A-28758B874CA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtgUSBamp", "ExtgUSBamp\ExtgUSBamp.csproj", "{445302B2-C421-40FC-8104-0610CB741BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeoEEG", "ZeoEEG\ZeoEEG.csproj", "{3629FD30-2699-45FF-B9E9-3F6BA1C411B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCILibCS", "BCILibCS\BCILibCS.csproj", "{D7042C00-8819-452F-960E-BF5BF7E32AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCCAmp", "NCCAmp\NCCAmp.csproj", "{8BAF3DA6-EEED-4FF1-B8E2-8682BCED939E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCC_D2Amp", "NCC_D2Amp\NCC_D2Amp.csproj", "{8C981068-600C-47E6-BDE0-C8C8633C9BFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindoAmp", "MinDoAmp\MindoAmp.csproj", "{579D2843-B597-4107-B5E0-F43390FB8997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5425D274-9813-436C-8A2A-28758B874CA5}.Debug|x86.ActiveCfg = Debug|x86
+		{5425D274-9813-436C-8A2A-28758B874CA5}.Debug|x86.Build.0 = Debug|x86
+		{5425D274-9813-436C-8A2A-28758B874CA5}.Release|x86.ActiveCfg = Release|x86
+		{5425D274-9813-436C-8A2A-28758B874CA5}.Release|x86.Build.0 = Release|x86
+		{445302B2-C421-40FC-8104-0610CB741BA0}.Debug|x86.ActiveCfg = Debug|x86
+		{445302B2-C421-40FC-8104-0610CB741BA0}.Debug|x86.Build.0 = Debug|x86
+		{445302B2-C421-40FC-8104-0610CB741BA0}.Release|x86.ActiveCfg = Release|x86
+		{445302B2-C421-40FC-8104-0610CB741BA0}.Release|x86.Build.0 = Release|x86
+		{3629FD30-2699-45FF-B9E9-3F6BA1C411B9}.Debug|x86.ActiveCfg = Debug|x86
+		{3629FD30-2699-45FF-B9E9-3F6BA1C411B9}.Debug|x86.Build.0 = Debug|x86
+		{3629FD30-2699-45FF-B9E9-3F6BA1C411B9}.Release|x86.ActiveCfg = Release|x86
+		{3629FD30-2699-45FF-B9E9-3F6BA1C411B9}.Release|x86.Build.0 = Release|x86
+		{D7042C00-8819-452F-960E-BF5BF7E32AC0}.Debug|x86.ActiveCfg = Debug|x86
+		{D7042C00-8819-452F-960E-BF5BF7E32AC0}.Debug|x86.Build.0 = Debug|x86
+		{D7042C00-8819-452F-960E-BF5BF7E32AC0}.Release|x86.ActiveCfg = Release|x86
+		{D7042C00-8819-452F-960E-BF5BF7E32AC0}.Release|x86.Build.0 = Release|x86
+		{8BAF3DA6-EEED-4FF1-B8E2-8682BCED939E}.Debug|x86.ActiveCfg = Debug|x86
+		{8BAF3DA6-EEED-4FF1-B8E2-8682BCED939E}.Debug|x86.Build.0 = Debug|x86
+		{8BAF3DA6-EEED-4FF1-B8E2-8682BCED939E}.Release|x86.ActiveCfg = Release|x86
+		{8BAF3DA6-EEED-4FF1-B8E2-8682BCED939E}.Release|x86.Build.0 = Release|x86
+		{8C981068-600C-47E6-BDE0-C8C8633C9BFF}.Debug|x86.ActiveCfg = Debug|x86
+		{8C981068-600C-47E6-BDE0-C8C8633C9BFF}.Debug|x86.Build.0 = Debug|x86
+		{8C981068-600C-47E6-BDE0-C8C8633C9BFF}.Release|x86.ActiveCfg = Release|x86
+		{8C981068-600C-47E6-BDE0-C8C8633C9BFF}.Release|x86.Build.0 = Release|x86
+		{579D2843-B597-4107-B5E0-F43390FB8997}.Debug|x86.ActiveCfg = Debug|x86
+		{579D2843-B597-4107-B5E0-F43390FB8997}.Debug|x86.Build.0 = Debug|x86
+		{579D2843-B597-4107-B5E0-F43390FB8997}.Release|x86.ActiveCfg = Release|x86
+		{579D2843-B597-4107-B5E0-F43390FB8997}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

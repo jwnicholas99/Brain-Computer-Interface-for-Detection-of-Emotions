@@ -1,0 +1,10 @@
+EXPORTS
+
+Inp32				  @1
+Out32				  @2
+IsInpOutDriverOpen	  @3
+
+DlPortReadPortUchar   @4
+DlPortWritePortUchar  @5
+
+

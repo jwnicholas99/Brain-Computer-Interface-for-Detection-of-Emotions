@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\Randomiser\Randomiser\bin\Debug\Randomiser.exe.config
+\\Mac\Home\Desktop\Randomiser\Randomiser\bin\Debug\Randomiser.exe
+\\Mac\Home\Desktop\Randomiser\Randomiser\bin\Debug\Randomiser.pdb
+\\Mac\Home\Desktop\Randomiser\Randomiser\obj\Debug\Randomiser.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Randomiser\Randomiser\obj\Debug\Randomiser.exe
+\\Mac\Home\Desktop\Randomiser\Randomiser\obj\Debug\Randomiser.pdb

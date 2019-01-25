@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8C981068-600C-47E6-BDE0-C8C8633C9BFF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NCC_D2Amp</RootNamespace>
+    <AssemblyName>NCC_D2Amp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ImpRangeDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImpRangeDlg.Designer.cs">
+      <DependentUpon>ImpRangeDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NCC_D2CfgForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NCC_D2CfgForm.Designer.cs">
+      <DependentUpon>NCC_D2CfgForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NCC_D2Amp.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BCILibCS\BCILibCS.csproj">
+      <Project>{D7042C00-8819-452F-960E-BF5BF7E32AC0}</Project>
+      <Name>BCILibCS</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ImpRangeDlg.resx">
+      <DependentUpon>ImpRangeDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NCC_D2CfgForm.resx">
+      <DependentUpon>NCC_D2CfgForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SDK\13脑电主机-计算机通讯协议NTDXY-111-10100.doc" />
+    <None Include="SDK\HardUsb%28DLL%29说明文档.doc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SDK\HardUsb.h" />
+    <None Include="SDK\NEUROSTYLE EEG-D-2 amplifier with impedance measurement.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SDK\base.h" />
+    <None Include="SDK\ezusbsys.h" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

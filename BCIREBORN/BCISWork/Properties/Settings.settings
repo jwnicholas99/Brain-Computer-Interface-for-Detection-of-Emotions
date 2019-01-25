@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BCIWork.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BCIWork_BCIWebUpload_BCIUpload" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://bci.i2r.a-star.edu.sg/BCIUpdate/bciupload.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

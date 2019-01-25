@@ -1,0 +1,4 @@
+start
+7260.jpg;High V Mid A;0;0
+2810.jpg;Mid V Mid A;0;0
+8179.jpg;High V High A;0;0

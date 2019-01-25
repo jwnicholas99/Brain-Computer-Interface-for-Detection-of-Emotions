@@ -1,0 +1,28 @@
+#MATLAB Preferences
+#Mon Jun 16 23:02:36 SGT 2014
+RLHiddenB2_WB_2006b_1=I16184
+RLOrderB2_WB_2006b_1=S0:1:2:3:
+RLPrevInitB2_WB_2006b_1=Btrue
+FileBrowserFiveColumnWidths=S[312 100 75 150 400]
+ReplaceMatchCase=Bfalse
+ReplaceWordWrap=Bfalse
+MatlabExitConfirm=Bfalse
+EditorNamedBufferOption=I1
+PathBrowserWindowBounds=R50 50 1181 792
+ReplaceWholeWord=Bfalse
+RLWidthB2_WB_2006b_1_3=I50
+RLWidthB2_WB_2006b_1_2=I50
+RLWidthB2_WB_2006b_1_1=I130
+RLWidthB2_WB_2006b_1_0=I130
+EditorMRU9=S
+EditorMRU8=S
+MatlabErrorLogReportTime=J4694564565431680646
+EditorMRU7=S
+EditorMRU6=S
+EditorMRU5=S
+EditorMRU4=SC:\\Users\\Owner\\Desktop\\WT Regression\\mycon.m
+EditorMRU3=SG:\\Work\\NexStartLite Backup\\KK\\Matlab2EXE\\ExeTrainModel2\\tectrain.m
+CommandWindowClearConfirmation=Btrue
+EditorMRU2=SG:\\Work\\NexStartLite Backup\\KK\\Matlab2EXE\\ExeTrainModel2\\tec_mi_train_2cross_validation.m
+FileBrowserFiveColumnOrder=S[0 1 2 3 4]
+EditorMRU1=SG:\\Work\\NexStartLite Backup\\KK\\Matlab2EXE\\ExeTrainModel2\\test_tec_mi.m

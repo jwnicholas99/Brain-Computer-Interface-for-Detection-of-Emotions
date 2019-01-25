@@ -1,0 +1,730 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D7042C00-8819-452F-960E-BF5BF7E32AC0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BCILib</RootNamespace>
+    <AssemblyName>BCILibCS</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkSubset>
+    </TargetFrameworkSubset>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Amp\ChannelCfgForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Amp\ChannelCfgForm.designer.cs">
+      <DependentUpon>ChannelCfgForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amp\NeuroSkyParser.cs" />
+    <Compile Include="App\BCISchedule.cs" />
+    <Compile Include="App\DataFileManager.cs" />
+    <Compile Include="MotorImagery\BCICursorCfg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\BCICursorCfg.Designer.cs">
+      <DependentUpon>BCICursorCfg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\BCICursorCtrl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\BCICursorCtrl.Designer.cs">
+      <DependentUpon>BCICursorCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\BCILowerLimb\BCILowerLimbRehab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\BCILowerLimb\BCILowerLimbRehab.Designer.cs">
+      <DependentUpon>BCILowerLimbRehab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\StartTaskForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\StartTaskForm.Designer.cs">
+      <DependentUpon>StartTaskForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\ExternalRehabGame.cs" />
+    <Compile Include="Amp\Amplifier.cs" />
+    <Compile Include="Amp\AmpViewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Amp\AmpViewer.Designer.cs">
+      <DependentUpon>AmpViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amp\BioRadio150.cs" />
+    <Compile Include="Amp\BioRadio150.Driver.cs">
+      <DependentUpon>BioRadio150.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amp\AmpContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Amp\AmpContainer.Designer.cs">
+      <DependentUpon>AmpContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amp\BioRadioCfg150.cs">
+      <SubType>Form</SubType>
+      <DependentUpon>BioRadio150.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amp\BioRadioCfg150.Designer.cs">
+      <DependentUpon>BioRadioCfg150.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amp\FileSimulator.cs" />
+    <Compile Include="Amp\EEGCntFile.cs" />
+    <Compile Include="Amp\FakeAmplifier.cs" />
+    <Compile Include="Amp\FakeAmplifier_Config.cs">
+      <SubType>Form</SubType>
+      <DependentUpon>FakeAmplifier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amp\FakeAmplifier_Config.Designer.cs">
+      <DependentUpon>FakeAmplifier_Config.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amp\LiveAmplifier.cs" />
+    <Compile Include="Amp\LiveSimulator.cs" />
+    <Compile Include="Amp\NeuroScan.cs" />
+    <Compile Include="Amp\NeuroScanCfg.cs">
+      <SubType>Form</SubType>
+      <DependentUpon>NeuroScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amp\NeuroScanCfg.designer.cs">
+      <DependentUpon>NeuroScanCfg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amp\SelAmpChannel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Amp\SelAmpChannel.Designer.cs">
+      <DependentUpon>SelAmpChannel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amp\SelectAmplifierForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Amp\SelectAmplifierForm.Designer.cs">
+      <DependentUpon>SelectAmplifierForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amp\ThinkGearConfigForm.cs">
+      <SubType>Form</SubType>
+      <DependentUpon>ThinkGear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amp\ThinkGearConfigForm.Designer.cs">
+      <DependentUpon>ThinkGearConfigForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amp\ThinkGear.cs" />
+    <Compile Include="Amp\ThinkGear.Driver.cs">
+      <DependentUpon>ThinkGear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\BCIAppForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\BCIAppForm.Designer.cs">
+      <DependentUpon>BCIAppForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\BCIApplication.cs" />
+    <Compile Include="App\BCICfg.cs" />
+    <Compile Include="App\BCIEngine.cs" />
+    <Compile Include="App\ConfirmNewGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\ConfirmNewGame.Designer.cs">
+      <DependentUpon>ConfirmNewGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\ConsoleOutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\ConsoleOutForm.Designer.cs">
+      <DependentUpon>ConsoleOutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\FindAppForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\FindAppForm.Designer.cs">
+      <DependentUpon>FindAppForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\GameCommand.cs" />
+    <Compile Include="App\SelectSubjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\TrainDirSpecForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\ExternalBCIApp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="App\ExternalBCIApp.Designer.cs">
+      <DependentUpon>ExternalBCIApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UserInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UserInfoForm.Designer.cs">
+      <DependentUpon>UserInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Concentration\BCIConcentration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Concentration\BCIConcentration.Designer.cs">
+      <DependentUpon>BCIConcentration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Concentration\StoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Concentration\ConcentrationTrainCfg.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Concentration\StroopTestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Concentration\StroopTestCfg.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Concentration\StroopTestCfg.Designer.cs">
+      <DependentUpon>StroopTestCfg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Concentration\ConcentrateGamesCfg.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EngineProc\BCICSEngine.cs" />
+    <Compile Include="EngineProc\FilterBankCSP.cs" />
+    <Compile Include="EngineProc\FLDModel.cs" />
+    <Compile Include="EngineProc\MIFLDEngine.cs" />
+    <Compile Include="MotorImagery\ArtsBCI\ArtsBCIDef.cs" />
+    <Compile Include="MotorImagery\ArtsBCI\BCIHapticKnob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\ArtsBCI\BCIHapticKnob.Designer.cs">
+      <DependentUpon>BCIHapticKnob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\ArtsBCI\FB_RehabScoreBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\ArtsBCI\FB_RehabScoreBar.Designer.cs">
+      <DependentUpon>FB_RehabScoreBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\ArtsBCI\FLDScoreViewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\ArtsBCI\FLDScoreViewer.Designer.cs">
+      <DependentUpon>FLDScoreViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\ArtsBCI\FB_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\ArtsBCI\FB_Form.Designer.cs">
+      <DependentUpon>FB_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\ArtsBCI\MIHapticKnobForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\ArtsBCI\MIHapticKnobForm.Designer.cs">
+      <DependentUpon>MIHapticKnobForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\ArtsBCI\FB_TwoClassBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\ArtsBCI\FB_TwoClassBar.Designer.cs">
+      <DependentUpon>FB_TwoClassBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\ArtsBCI\FB_Accumulate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\BCIManus\BCIManus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\BCIManus\BCIManus.Designer.cs">
+      <DependentUpon>BCIManus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\BCIManus\RecordEEGForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\BCIManus\RecordEEGForm.Designer.cs">
+      <DependentUpon>RecordEEGForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\FeedbackInterface.cs">
+    </Compile>
+    <Compile Include="MotorImagery\FLDAccumulator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\FLDAccumulator.Designer.cs">
+      <DependentUpon>FLDAccumulator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\FLDProcessor.cs" />
+    <Compile Include="MotorImagery\MIFeedback.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\MIFeedback.Designer.cs">
+      <DependentUpon>MIFeedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\MIFLDGameApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\MIFLDGameApp.Designer.cs">
+      <DependentUpon>MIFLDGameApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\SelectModelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\SelectModelForm.Designer.cs">
+      <DependentUpon>SelectModelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\SimpleDataCollectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\SimpleDataCollectionForm.Designer.cs">
+      <DependentUpon>SimpleDataCollectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sp\Transformation.cs" />
+    <Compile Include="Util\SelfDrawPannel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Util\SelfDrawPannel.Designer.cs">
+      <DependentUpon>SelfDrawPannel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\SerialPortCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Util\SerialPortCtrl.designer.cs">
+      <DependentUpon>SerialPortCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\SocketReadWrite.cs" />
+    <Compile Include="Util\StringTool.cs" />
+    <Compile Include="Util\TCPConfigCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Util\TCPConfigCtrl.Designer.cs">
+      <DependentUpon>TCPConfigCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\UC_HProgressBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Util\UC_HProgressBar.Designer.cs">
+      <DependentUpon>UC_HProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\USBMOD4.cs" />
+    <Compile Include="Util\USBVibrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Util\USBVibrationForm.designer.cs">
+      <DependentUpon>USBVibrationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\USBVibrator.cs" />
+    <Compile Include="Util\UserCtrlForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Util\UserCtrlForm.Designer.cs">
+      <DependentUpon>UserCtrlForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\ERDProcessor.cs" />
+    <Compile Include="MotorImagery\MIConstDef.cs" />
+    <Compile Include="MotorImagery\MIProcessor.cs" />
+    <Compile Include="MotorImagery\MITrainCrossArrowForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\MITrainCrossArrowForm.Designer.cs">
+      <DependentUpon>MITrainCrossArrowForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\MITrainMTSModelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\MITaskConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\MITaskConfig.Designer.cs">
+      <DependentUpon>MITaskConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorImagery\MotorImageGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorImagery\MotorImageGame.Designer.cs">
+      <DependentUpon>MotorImageGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\BCIProcessor.cs" />
+    <Compile Include="P300\BCI P300 Console.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P300\BCI P300 Console.Designer.cs">
+      <DependentUpon>BCI P300 Console.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P300\P300ConfigCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="P300\P300ConfigCtrl.Designer.cs">
+      <DependentUpon>P300ConfigCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P300\P300GameCmd.cs" />
+    <Compile Include="P300\P300Manager.cs" />
+    <Compile Include="P300\P300Processor.cs" />
+    <Compile Include="P300\P300SpellerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P300\P300SpellerForm.Designer.cs">
+      <DependentUpon>P300SpellerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P300\ModelDataPathForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P300\ModelDataPathForm.Designer.cs">
+      <DependentUpon>ModelDataPathForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P300\TrainModelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="sp\Filter.cs" />
+    <Compile Include="App\BCIAppStartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\BCIAppStartForm.Designer.cs">
+      <DependentUpon>BCIAppStartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sp\RealFFT.cs" />
+    <Compile Include="Util\EditResItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Util\HRTimer.cs" />
+    <Compile Include="Util\ConsoleCapture.cs" />
+    <Compile Include="Util\KMCapture.cs" />
+    <Compile Include="Util\NumberConv.cs" />
+    <Compile Include="Util\ParallelPort.cs" />
+    <Compile Include="Util\ResForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Util\ResManager.cs" />
+    <Compile Include="Util\SelectStringList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Util\SelectStringList.Designer.cs">
+      <DependentUpon>SelectStringList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\Sound.cs" />
+    <Compile Include="Util\StartProcForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\TestDirSpecForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Util\WindowsUtil.cs" />
+    <Compile Include="Util\WMCopyData.cs" />
+    <Compile Include="Util\WMHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Amp\AmpViewer.resx">
+      <DependentUpon>AmpViewer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amp\AmpContainer.resx">
+      <DependentUpon>AmpContainer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amp\BioRadioCfg150.resx">
+      <DependentUpon>BioRadioCfg150.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amp\FakeAmplifier_Config.resx">
+      <DependentUpon>FakeAmplifier_Config.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amp\NeuroScanCfg.resx">
+      <DependentUpon>NeuroScanCfg.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amp\SelAmpChannel.resx">
+      <DependentUpon>SelAmpChannel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amp\SelectAmplifierForm.resx">
+      <DependentUpon>SelectAmplifierForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amp\ThinkGearConfigForm.resx">
+      <DependentUpon>ThinkGearConfigForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\BCIAppForm.resx">
+      <DependentUpon>BCIAppForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\ConfirmNewGame.resx">
+      <DependentUpon>ConfirmNewGame.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\ConsoleOutForm.resx">
+      <DependentUpon>ConsoleOutForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\FindAppForm.resx">
+      <DependentUpon>FindAppForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\SelectSubjectForm.resx">
+      <DependentUpon>SelectSubjectForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\TrainDirSpecForm.resx">
+      <DependentUpon>TrainDirSpecForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\ExternalBCIApp.resx">
+      <DependentUpon>ExternalBCIApp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UserInfoForm.resx">
+      <DependentUpon>UserInfoForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Concentration\BCIConcentration.resx">
+      <DependentUpon>BCIConcentration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Concentration\StoryForm.resx">
+      <DependentUpon>StoryForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Concentration\ConcentrationTrainCfg.resx">
+      <DependentUpon>ConcentrationTrainCfg.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Concentration\StroopTestForm.resx">
+      <DependentUpon>StroopTestForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Concentration\StroopTestCfg.resx">
+      <DependentUpon>StroopTestCfg.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Concentration\ConcentrateGamesCfg.resx">
+      <DependentUpon>ConcentrateGamesCfg.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\ArtsBCI\BCIHapticKnob.resx">
+      <DependentUpon>BCIHapticKnob.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\ArtsBCI\FLDScoreViewer.resx">
+      <DependentUpon>FLDScoreViewer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\ArtsBCI\MIHapticKnobForm.resx">
+      <DependentUpon>MIHapticKnobForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\MIFeedback.resx">
+      <DependentUpon>MIFeedback.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\SerialPortCtrl.resx">
+      <DependentUpon>SerialPortCtrl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\UserCtrlForm.resx">
+      <DependentUpon>UserCtrlForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\MITrainCrossArrowForm.resx">
+      <DependentUpon>MITrainCrossArrowForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\MITrainMTSModelForm.resx">
+      <DependentUpon>MITrainMTSModelForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\MITaskConfig.resx">
+      <DependentUpon>MITaskConfig.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\MotorImageGame.resx">
+      <DependentUpon>MotorImageGame.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P300\BCI P300 Console.resx">
+      <DependentUpon>BCI P300 Console.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P300\P300ConfigCtrl.resx">
+      <DependentUpon>P300ConfigCtrl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P300\P300SpellerForm.resx">
+      <DependentUpon>P300SpellerForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P300\ModelDataPathForm.resx">
+      <DependentUpon>ModelDataPathForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P300\TrainModelForm.resx">
+      <DependentUpon>TrainModelForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\BCIAppStartForm.resx">
+      <DependentUpon>BCIAppStartForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\EditResItemForm.resx">
+      <DependentUpon>EditResItemForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\ResForm.resx">
+      <DependentUpon>ResForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\SelectStringList.resx">
+      <DependentUpon>SelectStringList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\StartProcForm.resx">
+      <DependentUpon>StartProcForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\TestDirSpecForm.resx">
+      <DependentUpon>TestDirSpecForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <Content Include="App\ConsoleOutput.ico" />
+    <None Include="pause.png" />
+    <EmbeddedResource Include="Amp\ChannelCfgForm.resx">
+      <DependentUpon>ChannelCfgForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\BCICursorCfg.resx">
+      <DependentUpon>BCICursorCfg.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\BCICursorCtrl.resx">
+      <DependentUpon>BCICursorCtrl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\BCILowerLimb\BCILowerLimbRehab.resx">
+      <DependentUpon>BCILowerLimbRehab.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\StartTaskForm.resx">
+      <DependentUpon>StartTaskForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\ArtsBCI\FB_Accumulate.resx">
+      <DependentUpon>FB_Accumulate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\ArtsBCI\FB_Form.resx">
+      <DependentUpon>FB_Form.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\ArtsBCI\FB_TwoClassBar.resx">
+      <DependentUpon>FB_TwoClassBar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\BCIManus\BCIManus.resx">
+      <DependentUpon>BCIManus.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\BCIManus\RecordEEGForm.resx">
+      <DependentUpon>RecordEEGForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\FLDAccumulator.resx">
+      <DependentUpon>FLDAccumulator.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\MIFLDGameApp.resx">
+      <DependentUpon>MIFLDGameApp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\SelectModelForm.resx">
+      <DependentUpon>SelectModelForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\SimpleDataCollectionForm.resx">
+      <DependentUpon>SimpleDataCollectionForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\TCPConfigCtrl.resx">
+      <DependentUpon>TCPConfigCtrl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\UC_HProgressBar.resx">
+      <DependentUpon>UC_HProgressBar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorImagery\ArtsBCI\smiley_encourage.png" />
+    <EmbeddedResource Include="MotorImagery\ArtsBCI\smiley_fail.png" />
+    <EmbeddedResource Include="MotorImagery\ArtsBCI\smiley_success.png" />
+    <EmbeddedResource Include="Util\USBVibrationForm.resx">
+      <DependentUpon>USBVibrationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

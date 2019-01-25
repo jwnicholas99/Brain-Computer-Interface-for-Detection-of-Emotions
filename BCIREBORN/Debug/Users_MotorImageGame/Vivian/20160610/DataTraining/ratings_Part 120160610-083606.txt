@@ -1,0 +1,13 @@
+start
+2490.jpg;LVLA (4.3);4;6
+9472.jpg;LVLA (4.3);5;5
+9390.jpg;LVLA (4.3);5;5
+9360.jpg;LVLA (4.3);5;5
+2399.jpg;LVLA (4.3);5;5
+9280.jpg;LVLA (4.3);5;5
+9220.jpg;LVLA (4.3);5;5
+9190.jpg;LVLA (4.3);5;5
+9110.jpg;LVLA (4.3);5;5
+9101.jpg;LVLA (4.3);5;5
+2312.jpg;LVLA (4.3);5;5
+9045.jpg;LVLA (4.3);5;5

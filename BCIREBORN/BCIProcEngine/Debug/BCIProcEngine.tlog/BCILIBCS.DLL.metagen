@@ -1,0 +1,1527 @@
+  BCILib.Amp.AmpViewer.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Amp.AmpContainer.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Amp.BioRadio150Cfg.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Amp.FakeAmplifier_Config.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Amp.NeuroScanCfg.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Amp.SelAmpChannel.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Amp.SelectAmplifierForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Amp.ThinkGearConfigForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.App.BCIAppForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.App.ConfirmNewGame.resources - Embedded, ContainedInManifestFile, 
+  BCILib.App.ConsoleOutForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.App.FindAppForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.App.SelectSubjectForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.TrainDirSpecForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.App.ExternalBCIApp.resources - Embedded, ContainedInManifestFile, 
+  BCILib.App.UserInfoForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Concentration.BCIConcentration.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Concentration.StoryForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Concentration.ConcentrationTrainCfg.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Concentration.StroopTestForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Concentration.StroopTestCfg.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Concentration.ConcentrateGamesCfg.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.ArtsBCI.BCIHapticKnob.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.ArtsBCI.FLDScoreViewer.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.ArtsBCI.MIHapticKnobForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.MIFeedback.resources - Embedded, ContainedInManifestFile, 
+  BCILibCS.Util.SerialPortCtrl.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Util.UserCtrlForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.MITrainCrossArrowForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.MITrainMTSModelForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.MITaskConfig.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.MotorImageGame.resources - Embedded, ContainedInManifestFile, 
+  BCILib.P300.BCI_P300_Console.resources - Embedded, ContainedInManifestFile, 
+  BCILib.P300.P300ConfigCtrl.resources - Embedded, ContainedInManifestFile, 
+  BCILib.P300.P300SpellerForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.P300.ModelDataPathForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.P300.TrainModelForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Properties.Resources.resources - Embedded, ContainedInManifestFile, 
+  BCILib.App.BCIAppStartForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Util.EditResItemForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Util.ResForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Util.SelectStringList.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Util.StartProcForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.App.TestDirSpecForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Amp.ChannelCfgForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.BCICursorCfg.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.BCICursorCtrl.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.BCILowerLimb.BCILowerLimbRehab.resources - Embedded, ContainedInManifestFile, 
+  BCILib.App.StartTaskForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.ArtsBCI.FB_Accumulate.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.ArtsBCI.FB_Form.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.ArtsBCI.FB_TwoClassBar.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.BCIManus.BCIManusForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.BCIManus.RecordEEGForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.PicLoader.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.FLDAccumulator.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.MIFLDGameApp.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.MITrainingDataCollection.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.SelectModelForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.SimpleDataCollectionForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Util.TCPConfigCtrl.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Util.UC_HProgressBar.resources - Embedded, ContainedInManifestFile, 
+  BCILib.Util.USBVibrationForm.resources - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.ArtsBCI.smiley_encourage.png - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.ArtsBCI.smiley_fail.png - Embedded, ContainedInManifestFile, 
+  BCILib.MotorImagery.ArtsBCI.smiley_success.png - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly BCILibCS, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class BCILib.Amp.ChannelCfgForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String[] ChannelNames 'get set' : 
+  Methods:
+    set_ChannelNames(String[]): PrivateScope, Public, HideBySig, SpecialName
+    get_ChannelNames(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.Amp.Amplifier: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  Fields:
+    AmplifierHeader header : Public
+    System.String DefaultPackage : Public, Static, InitOnly
+  Properties:
+    System.String LogFileName 'get ' : 
+    System.String ID 'get set' : 
+    System.String[] ChannelNames 'get ' : 
+    Boolean IsAlive 'get ' : 
+    System.String TypeName 'get ' : 
+    System.String DevName 'get ' : 
+    Int32 ActSampleRate 'get ' : 
+    Boolean CheckEventTimeout 'get set' : 
+    Boolean IsRecording 'get ' : 
+    Int64 LastReadSplInFile 'get ' : 
+    BCILib.Amp.AmpStatus Status 'get set' : 
+  Events:
+    System.Action`2[System.Single[],System.Int32[]] evt_data_received: 
+    System.Action`2[System.Int32,System.Int32] evt_stim_received: 
+    System.Action`1[BCILib.Amp.Amplifier] StatusChanged: 
+  Methods:
+    get_LogFileName(): PrivateScope, Public, Static, HideBySig, SpecialName
+    LogMessage(String, Object[]): PrivateScope, Public, Static, HideBySig
+    get_ID(): PrivateScope, Public, HideBySig, SpecialName
+    SaveConfig(ResManager): PrivateScope, Public, HideBySig
+    GetChannelNameString(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    get_ChannelNames(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    Initialize(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Start(): PrivateScope, Public, HideBySig
+    Stop(): PrivateScope, Public, HideBySig
+    get_IsAlive(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    add_evt_data_received(Action`2): PrivateScope, Public, HideBySig, SpecialName
+    remove_evt_data_received(Action`2): PrivateScope, Public, HideBySig, SpecialName
+    GetTypeName(Type): PrivateScope, Public, Static, HideBySig
+    get_TypeName(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_DevName(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    Configure(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    FromConfigure(ResManager, String): PrivateScope, Public, Static, HideBySig
+    SendStimCode(Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    get_ActSampleRate(): PrivateScope, Public, HideBySig, SpecialName
+    get_CheckEventTimeout(): PrivateScope, Public, HideBySig, SpecialName
+    set_CheckEventTimeout(Boolean): PrivateScope, Public, HideBySig, SpecialName
+    add_evt_stim_received(Action`2): PrivateScope, Public, HideBySig, SpecialName
+    remove_evt_stim_received(Action`2): PrivateScope, Public, HideBySig, SpecialName
+    get_IsRecording(): PrivateScope, Public, HideBySig, SpecialName
+    StartRecord(String): PrivateScope, Public, HideBySig
+    StopRecord(): PrivateScope, Public, HideBySig
+    Rd_SetPos(Int32): PrivateScope, Public, HideBySig
+    Rd_GetPos(): PrivateScope, Public, HideBySig
+    Rd_GetBuf(Single[], Int32, Int32): PrivateScope, Public, HideBySig
+    Rd_GetBuf(Single[], Int32&, Int32, Boolean): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ToFilePos(Int32): PrivateScope, Public, HideBySig
+    get_LastReadSplInFile(): PrivateScope, Public, HideBySig, SpecialName
+    get_Status(): PrivateScope, Public, HideBySig, SpecialName
+    add_StatusChanged(Action`1): PrivateScope, Public, Static, HideBySig, SpecialName
+    remove_StatusChanged(Action`1): PrivateScope, Public, Static, HideBySig, SpecialName
+    IsRealAmplifier(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Struct BCILib.Amp.Amplifier+CfgProp: AutoLayout, AnsiClass, Class, NestedPublic, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    CfgProp InstalledDevices = 0 : Public, Static, Literal, HasDefault
+    CfgProp Type = 1 : Public, Static, Literal, HasDefault
+    CfgProp ChannelNames = 2 : Public, Static, Literal, HasDefault
+    CfgProp Delay_SoftwareStim = 3 : Public, Static, Literal, HasDefault
+    CfgProp AssemblyLocation = 4 : Public, Static, Literal, HasDefault
+Struct BCILib.Amp.Amplifier+AmplifierHeader: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Fields:
+    Int32 nchan : Public
+    Int32 nevt : Public
+    Int32 blk_samples : Public
+    Int32 samplingrate : Public
+    Int32 datasize : Public
+    Single resolution : Public
+  Properties:
+    Int32 SampleSize 'get ' : 
+    Int32 BlkSize 'get ' : 
+  Methods:
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+    get_SampleSize(): PrivateScope, Public, HideBySig, SpecialName
+    get_BlkSize(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.Amp.LiveAmplifier: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  :BCILib.Amp.Amplifier
+  Properties:
+    Boolean IsAlive 'get ' : 
+  Methods:
+    IsRealAmplifier(): PrivateScope, Public, Virtual, HideBySig
+    get_IsAlive(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+Class BCILib.Amp.NeuroSkyParser: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :BCILib.Amp.LiveAmplifier
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String DevName 'get ' : 
+  Methods:
+    GetChannelNameString(): PrivateScope, Public, Virtual, HideBySig
+    Initialize(): PrivateScope, Public, Virtual, HideBySig
+    Configure(): PrivateScope, Public, Virtual, HideBySig
+    get_DevName(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+Struct BCILib.App.BCITask: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    BCILib.App.BCITask None = 0 : Public, Static, Literal, HasDefault
+    BCILib.App.BCITask Training = 1 : Public, Static, Literal, HasDefault
+    BCILib.App.BCITask Supervised = 2 : Public, Static, Literal, HasDefault
+    BCILib.App.BCITask Rehab = 3 : Public, Static, Literal, HasDefault
+Class BCILib.App.TaskItem: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BCILib.App.BCITask): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BCILib.App.BCITask, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BCILib.App.TaskItem): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    BCILib.App.BCITask task : Public
+    System.String desc : Public
+    Int32 id : Public
+    System.Nullable`1[System.DateTime] ctime : Public
+    System.Nullable`1[System.DateTime] ftime : Public
+    System.String datapath : Public
+  Methods:
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+    Copy(TaskItem): PrivateScope, Public, HideBySig
+    GetDescription(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    NewTask(BCITask): PrivateScope, Public, Static, HideBySig
+Class BCILib.App.TaskSession: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String name : Public
+    Int32 id : Public
+    System.Collections.Generic.List`1[BCILib.App.TaskItem] items : Public
+  Methods:
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+Class BCILib.App.BCISchedule: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Double version : Public
+    System.Collections.Generic.List`1[BCILib.App.TaskSession] sessions : Public
+  Properties:
+    BCILib.App.BCISchedule Instance 'get ' : 
+  Methods:
+    get_Instance(): PrivateScope, Public, Static, HideBySig, SpecialName
+    SaveLocal(): PrivateScope, Public, Static, HideBySig
+    CreateDefSchedure(): PrivateScope, Public, Static, HideBySig
+    SaveGlobal(): PrivateScope, Public, Static, HideBySig
+    SaveUserRecord(TaskItem): PrivateScope, Public, Static, HideBySig
+Class BCILib.App.RehabTask: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+  :BCILib.App.TaskItem
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BCILib.App.TaskItem): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 tacc : Public
+    Int32 trej : Public
+    Int32 facc : Public
+    Int32 frej : Public
+  Methods:
+    GetDescription(): PrivateScope, Public, Virtual, HideBySig
+Class BCILib.App.TrainTask: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+  :BCILib.App.TaskItem
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BCILib.App.TaskItem): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ntrials : Public
+    Int32 nclasses : Public
+  Methods:
+    GetDescription(): PrivateScope, Public, Virtual, HideBySig
+    SetTrialInfo(): PrivateScope, Public, HideBySig
+Class BCILib.App.DataFileManager: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  Methods:
+    AddDataDir(String): PrivateScope, Public, Static, HideBySig
+    AddDataFile(String): PrivateScope, Public, Static, HideBySig
+Class BCILib.MotorImagery.BCICursorCfg: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 HSteps 'get set' : 
+    Int32 VSteps 'get set' : 
+    Int32 TargetSize 'get set' : 
+    Int32 PrepareTime 'get set' : 
+    Boolean Calibrate 'get set' : 
+  Methods:
+    get_HSteps(): PrivateScope, Public, HideBySig, SpecialName
+    set_HSteps(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_VSteps(): PrivateScope, Public, HideBySig, SpecialName
+    set_VSteps(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_TargetSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_TargetSize(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_PrepareTime(): PrivateScope, Public, HideBySig, SpecialName
+    set_PrepareTime(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Calibrate(): PrivateScope, Public, HideBySig, SpecialName
+    set_Calibrate(Boolean): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.MotorImagery.BCICursorCtrl: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Double thr_left : Public
+    Double thr_right : Public
+  Events:
+    System.Action`2[System.Double,System.Double] ThresholdValue_Changed: 
+  Methods:
+    add_ThresholdValue_Changed(Action`2): PrivateScope, Public, HideBySig, SpecialName
+    remove_ThresholdValue_Changed(Action`2): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.App.BCIAppForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.ToolStripStatusLabel tsslBias : Public
+    System.Windows.Forms.ToolStripStatusLabel tsslRaw : Public
+    System.Windows.Forms.ToolStripStatusLabel tsslBCI : Public
+  Properties:
+    System.String TimeStamp 'get ' : 
+    System.String RootPath 'get ' : 
+  Methods:
+    get_TimeStamp(): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_RootPath(): PrivateScope, Public, Static, HideBySig, SpecialName
+Class BCILib.MotorImagery.BCILowerLimb.BCILowerLimbRehab: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :BCILib.App.BCIAppForm
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BCILib.App.StartTaskForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    SelectedTask(): PrivateScope, Public, HideBySig
+Class BCILib.MotorImagery.PicLoader: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    RandomNumber(Int32, Int32): PrivateScope, Public, Static, HideBySig
+    timer_Tick(Object, EventArgs): PrivateScope, Public, HideBySig
+Interface BCILib.MotorImagery.FeedbackInterface: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract
+  Methods:
+    StartGame(ManualResetEvent, BCITask, Int32, Int32[]): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    StartTrial(MIAction, Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    SetMIStep(MI_STEP, Int32, Int32[]): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Close(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Class BCILib.MotorImagery.ExternalRehabGame: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(IntPtr, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    BCILib.MotorImagery.FeedbackInterface
+  Methods:
+    StartGameIfNotFound(): PrivateScope, Public, HideBySig
+Struct BCILib.Amp.StimMethod: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    BCILib.Amp.StimMethod None = 0 : Public, Static, Literal, HasDefault
+    BCILib.Amp.StimMethod Software = 1 : Public, Static, Literal, HasDefault
+    BCILib.Amp.StimMethod ParallePort = 2 : Public, Static, Literal, HasDefault
+    BCILib.Amp.StimMethod USBMOD4 = 4 : Public, Static, Literal, HasDefault
+Struct BCILib.Amp.AmpStatus: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    BCILib.Amp.AmpStatus Connected = 0 : Public, Static, Literal, HasDefault
+    BCILib.Amp.AmpStatus Checking = 1 : Public, Static, Literal, HasDefault
+    BCILib.Amp.AmpStatus Off = 2 : Public, Static, Literal, HasDefault
+Class BCILib.Amp.SentStim: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 code : Public
+    Int32 splno : Public
+Class BCILib.Amp.AmpContainer: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+  Properties:
+    BCILib.Amp.AmpContainer GlobalContainer 'get ' : 
+    Int32 Count 'get ' : 
+    Boolean AllAlive 'get ' : 
+  Events:
+    System.Action AmpChanged: 
+  Methods:
+    get_GlobalContainer(): PrivateScope, Public, Static, HideBySig, SpecialName
+    GetAmplifier(Int32): PrivateScope, Public, Static, HideBySig
+    GetAmplifier(String): PrivateScope, Public, Static, HideBySig
+    get_Count(): PrivateScope, Public, Static, HideBySig, SpecialName
+    ShowContainer(): PrivateScope, Public, Static, HideBySig
+    SendAll(Int32): PrivateScope, Public, Static, HideBySig
+    StartAll(): PrivateScope, Public, Static, HideBySig
+    StopAll(): PrivateScope, Public, Static, HideBySig
+    get_AllAlive(): PrivateScope, Public, Static, HideBySig, SpecialName
+    StartRecord(String, String): PrivateScope, Public, Static, HideBySig
+    StopRecord(): PrivateScope, Public, Static, HideBySig
+    add_AmpChanged(Action): PrivateScope, Public, Static, HideBySig, SpecialName
+    remove_AmpChanged(Action): PrivateScope, Public, Static, HideBySig, SpecialName
+    Main(String[]): PrivateScope, Public, Static, HideBySig
+Class BCILib.Amp.FileSimulator: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :BCILib.Amp.LiveAmplifier
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    IsRealAmplifier(): PrivateScope, Public, Virtual, HideBySig
+    GetChannelNameString(): PrivateScope, Public, Virtual, HideBySig
+    SendStimCode(Int32): PrivateScope, Public, Virtual, HideBySig
+    Rd_GetBuf(Single[], Int32&, Int32, Boolean): PrivateScope, Public, Virtual, HideBySig
+    Initialize(): PrivateScope, Public, Virtual, HideBySig
+    Configure(): PrivateScope, Public, Virtual, HideBySig
+    ProceedToEvent(List`1): PrivateScope, Public, HideBySig
+Class BCILib.Amp.EEGCntFile: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Single[,] eeg_data : Public
+    Int32[] stim_code : Public
+    Int32[] stim_pos : Public
+    Int32[,] stim_num : Public
+  Properties:
+    BCILib.Amp.AmpInfo Amp_Info 'get ' : 
+    StimCodeList CodeList 'get ' : 
+    Int32 NumSamples 'get ' : 
+  Methods:
+    GetStimCodeByNo(Int32): PrivateScope, Public, HideBySig
+    GetStimPosByNo(Int32): PrivateScope, Public, HideBySig
+    ReadCnt(String): PrivateScope, Public, HideBySig
+    get_Amp_Info(): PrivateScope, Public, HideBySig, SpecialName
+    GetNumberOfStimcode(Int32): PrivateScope, Public, HideBySig
+    GetEpochByStimCode(Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    GetEpochByStimNo(Single[,], Int32, Int32, Int32, Int32[]): PrivateScope, Public, HideBySig
+    get_CodeList(): PrivateScope, Public, HideBySig, SpecialName
+    get_NumSamples(): PrivateScope, Public, HideBySig, SpecialName
+    GetDataSamples(Single[], Int32, Int32): PrivateScope, Public, HideBySig
+    GetDataSamples(Single[], Int32, Int32, Int32[]): PrivateScope, Public, HideBySig
+    GetStimCodeByPos(Int32): PrivateScope, Public, HideBySig
+Struct BCILib.Amp.EEGCntFile+StimCodeList: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+    Void .ctor(Int32[]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 Item [Int32] 'get ' : 
+    Int32 Count 'get ' : 
+  Methods:
+    get_Item(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Count(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.Amp.AmpInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 num_chan : Public
+    Int32 num_evt : Public
+    Int32 blk_samples : Public
+    Int32 sampling_rate : Public
+    Int32 data_size : Public
+    Single resolution : Public
+    System.String[] chan_names : Public
+    Int32[] used_idx : Public
+    Int32[] valid_idx : Public
+Class BCILib.Amp.FakeAmplifier: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :BCILib.Amp.LiveAmplifier
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetChannelNameString(): PrivateScope, Public, Virtual, HideBySig
+    IsRealAmplifier(): PrivateScope, Public, Virtual, HideBySig
+    Initialize(): PrivateScope, Public, Virtual, HideBySig
+    Configure(): PrivateScope, Public, Virtual, HideBySig
+Class BCILib.Amp.FakeAmplifier_Config: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 NumChannels 'get set' : 
+    Int32 SampleRate 'get set' : 
+    System.String ChannelNameString 'get set' : 
+  Methods:
+    get_NumChannels(): PrivateScope, Public, HideBySig, SpecialName
+    set_NumChannels(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_SampleRate(): PrivateScope, Public, HideBySig, SpecialName
+    set_SampleRate(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_ChannelNameString(): PrivateScope, Public, HideBySig, SpecialName
+    set_ChannelNameString(String): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.Amp.SelAmpChannel: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 SelectedNum 'get set' : 
+    Int32[] SelectedItemIndices 'get ' : 
+    System.String SelectedAmplifier 'get ' : 
+    System.String[] SelectedList 'get set' : 
+    System.String SelectedString 'get set' : 
+  Methods:
+    ShowAmplifier(): PrivateScope, Public, HideBySig
+    get_SelectedNum(): PrivateScope, Public, HideBySig, SpecialName
+    set_SelectedNum(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_SelectedItemIndices(): PrivateScope, Public, HideBySig, SpecialName
+    get_SelectedAmplifier(): PrivateScope, Public, HideBySig, SpecialName
+    set_SelectedList(String[]): PrivateScope, Public, HideBySig, SpecialName
+    get_SelectedList(): PrivateScope, Public, HideBySig, SpecialName
+    get_SelectedString(): PrivateScope, Public, HideBySig, SpecialName
+    set_SelectedString(String): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.App.BCIApplication: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String[][]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean DebugMode : Public, Static
+    System.String AppUser : Public, Static
+    System.String FMT_TIMESTAMP = yyyyMMdd-HHmmss : Public, Static, Literal, HasDefault
+  Properties:
+    System.String AppName 'get set' : 
+    System.String UsersRoot 'get ' : 
+    BCILib.Util.ResManager SysResource 'get ' : 
+    BCILib.Util.ResManager AppResource 'get ' : 
+    System.String TimeStamp 'get ' : 
+    Boolean QuickStart 'get set' : 
+    System.String RootPath 'get ' : 
+    System.String UserPath 'get ' : 
+    System.String DatePath 'get ' : 
+    System.String DateString 'get ' : 
+    System.String UserCfgPath 'get ' : 
+    Int32 ElaspedMilliSeconds 'get ' : 
+    Int64 ElaspedLongMilliSeconds 'get ' : 
+    System.String DataPath 'get set' : 
+  Methods:
+    set_AppName(String): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_AppName(): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_UsersRoot(): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_SysResource(): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_AppResource(): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_TimeStamp(): PrivateScope, Public, Static, HideBySig, SpecialName
+    set_QuickStart(Boolean): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_QuickStart(): PrivateScope, Public, Static, HideBySig, SpecialName
+    MoveFiles(String, String): PrivateScope, Public, Static, HideBySig
+    CopyFiles(String, String): PrivateScope, Public, Static, HideBySig
+    SetUserEnvironment(String): PrivateScope, Public, HideBySig
+    get_RootPath(): PrivateScope, Public, Static, HideBySig, SpecialName
+    AddAppLog(String, Object[]): PrivateScope, Public, Static, HideBySig
+    get_UserPath(): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_DatePath(): PrivateScope, Public, Static, HideBySig, SpecialName
+    GenerateSeq(Int32): PrivateScope, Public, Static, HideBySig
+    GenerateSeq(Int32, Int32): PrivateScope, Public, Static, HideBySig
+    GetRelativePath(String, String): PrivateScope, Public, Static, HideBySig
+    GetRelativeUserPath(String): PrivateScope, Public, Static, HideBySig
+    GetRelativeAppPath(String): PrivateScope, Public, Static, HideBySig
+    AddTrainingEEGFile(String): PrivateScope, Public, Static, HideBySig
+    AddTrainingPath(String): PrivateScope, Public, Static, HideBySig
+    AddTrainingPath(String, Boolean): PrivateScope, Public, Static, HideBySig
+    SaveTrainingFileLists(ListView): PrivateScope, Public, Static, HideBySig
+    LoadTraingFileLists(ListView): PrivateScope, Public, Static, HideBySig
+    LoadTraingFileLists(ListView, Boolean): PrivateScope, Public, Static, HideBySig
+    GetAppGames(): PrivateScope, Public, Static, HideBySig
+    GetGamePath(String): PrivateScope, Public, Static, HideBySig
+    GetGamePath(String, Boolean): PrivateScope, Public, Static, HideBySig
+    GetGamePath(String, Boolean, Boolean): PrivateScope, Public, Static, HideBySig
+    BrowseForDirectory(String): PrivateScope, Public, Static, HideBySig
+    BrowseForDirectory(String, Boolean): PrivateScope, Public, Static, HideBySig
+    SetProtocolName(String): PrivateScope, Public, Static, HideBySig
+    SetProtocolName(ResManager, String): PrivateScope, Public, Static, HideBySig
+    SetProtocolName(ResManager, String, Boolean): PrivateScope, Public, Static, HideBySig
+    get_DateString(): PrivateScope, Public, Static, HideBySig, SpecialName
+    LogMessage(String, Object[]): PrivateScope, Public, Static, HideBySig
+    LogMessage(TextWriter, String, Object[]): PrivateScope, Public, Static, HideBySig
+    get_UserCfgPath(): PrivateScope, Public, Static, HideBySig, SpecialName
+    StartExternalProc(String, String, Boolean, Boolean): PrivateScope, Public, Static, HideBySig
+    get_ElaspedMilliSeconds(): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_ElaspedLongMilliSeconds(): PrivateScope, Public, Static, HideBySig, SpecialName
+    set_DataPath(String): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_DataPath(): PrivateScope, Public, Static, HideBySig, SpecialName
+    GetCntFileList(String, Boolean): PrivateScope, Public, Static, HideBySig
+Class BCILib.App.BCICfg: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String System = System : Public, Static, Literal, HasDefault
+    System.String Train = Train : Public, Static, Literal, HasDefault
+    System.String Test = Test : Public, Static, Literal, HasDefault
+    System.String Current_Train = Current_Train : Public, Static, Literal, HasDefault
+    System.String ID_Train = ID_Train : Public, Static, Literal, HasDefault
+    System.String Number_Trials = Number_Trials : Public, Static, Literal, HasDefault
+    System.String Time_WaitStart = Time_WaitStart : Public, Static, Literal, HasDefault
+    System.String Time_Prepare = Time_Prepare : Public, Static, Literal, HasDefault
+    System.String Time_Cue = Time_Cue : Public, Static, Literal, HasDefault
+    System.String Time_Action = Time_Action : Public, Static, Literal, HasDefault
+    System.String Time_Rest = Time_Rest : Public, Static, Literal, HasDefault
+    System.String Time_Imagine_Wait = Time_Imagine_Wait : Public, Static, Literal, HasDefault
+    System.String Stim_Prepare = Stim_Prepare : Public, Static, Literal, HasDefault
+    System.String Stim_Task_Offset = Stim_Task_Offset : Public, Static, Literal, HasDefault
+    System.String Stim_Click_Offset = Stim_Click_Offset : Public, Static, Literal, HasDefault
+    System.String Stim_KeyDown_Offset = Stim_KeyDown_Offset : Public, Static, Literal, HasDefault
+    System.String Stim_Rest = Stim_Rest : Public, Static, Literal, HasDefault
+    System.String UsedChannelIdx = UsedChannelIdx : Public, Static, Literal, HasDefault
+    System.String EEG = EEG : Public, Static, Literal, HasDefault
+    System.String AppName = AppName : Public, Static, Literal, HasDefault
+    System.String Score_Interval_MS = Score_Interval_MS : Public, Static, Literal, HasDefault
+    System.String Score_Smooth_Factor = Score_Smooth_Factor : Public, Static, Literal, HasDefault
+    System.String Score_Bias = Score_Bias : Public, Static, Literal, HasDefault
+    System.String Score_Gain = Score_Gain : Public, Static, Literal, HasDefault
+    System.String ModelFile = ModelFile : Public, Static, Literal, HasDefault
+    System.String ModelUsedChannels = ModelUsedChannels : Public, Static, Literal, HasDefault
+    System.String Amplifier = Amplifier : Public, Static, Literal, HasDefault
+    System.String AmpChannels = AmpChannels : Public, Static, Literal, HasDefault
+    System.String UseGlobalProfile = UseGlobalProfile : Public, Static, Literal, HasDefault
+    System.String AttentionDetection = AttentionDetection : Public, Static, Literal, HasDefault
+    System.String TrainingFileListName = TrainingFileListName : Public, Static, Literal, HasDefault
+    System.String TrainingFileName = TrainingFiles.txt : Public, Static, Literal, HasDefault
+    System.String NamePartSeperator = - : Public, Static, Literal, HasDefault
+Struct BCILib.App.BCIConstant: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    BCILib.App.BCIConstant Data = 0 : Public, Static, Literal, HasDefault
+    BCILib.App.BCIConstant Model = 1 : Public, Static, Literal, HasDefault
+    BCILib.App.BCIConstant DataTraining = 2 : Public, Static, Literal, HasDefault
+Class BCILib.App.BCIEngine: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  Properties:
+    System.Reflection.Assembly ASB_BCIProcEngine 'get ' : 
+    Int32 NumSampleUsed 'get ' : 
+    Int32 NumChannelUsed 'get ' : 
+    IntPtr Processor 'get ' : 
+  Methods:
+    SetFeedbackHandler(Delegate): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    get_ASB_BCIProcEngine(): PrivateScope, Public, Static, HideBySig, SpecialName
+    CreateEngine(BCIProcType): PrivateScope, Public, Static, HideBySig
+    get_NumSampleUsed(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_NumChannelUsed(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_Processor(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    ProcEEGBuf(Single[], Int32, Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Initialize(Hashtable): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Initialize(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Free(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Struct BCILib.App.BCIEngine+BCIProcType: AutoLayout, AnsiClass, Class, NestedPublic, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    BCIProcType None = 0 : Public, Static, Literal, HasDefault
+    BCIProcType Concentration = 1 : Public, Static, Literal, HasDefault
+    BCIProcType MotorImagery = 2 : Public, Static, Literal, HasDefault
+    BCIProcType ERD = 21 : Public, Static, Literal, HasDefault
+    BCIProcType P300 = 3 : Public, Static, Literal, HasDefault
+Class BCILib.App.ConfirmNewGame: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    ShowDialog(String): PrivateScope, Public, Static, HideBySig
+Class BCILib.App.ConsoleOutForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+  Methods:
+    ShowWindow(): PrivateScope, Public, Static, HideBySig
+Class BCILib.App.FindAppForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String Type 'get set' : 
+  Methods:
+    get_Type(): PrivateScope, Public, HideBySig, SpecialName
+    set_Type(String): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.App.GameCommand: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Fields:
+    UInt16 Initialize = 0 : Public, Static, Literal, HasDefault
+    UInt16 StartGame = 1 : Public, Static, Literal, HasDefault
+    UInt16 StopGame = 3 : Public, Static, Literal, HasDefault
+    UInt16 CloseGame = 4 : Public, Static, Literal, HasDefault
+    UInt16 SetBCIScore = 2 : Public, Static, Literal, HasDefault
+    UInt16 SetPlayerName = 5 : Public, Static, Literal, HasDefault
+    UInt16 SetPlayerName2 = 6 : Public, Static, Literal, HasDefault
+    UInt16 SetBCIScore2 = 7 : Public, Static, Literal, HasDefault
+    Int32 Pause = 8 : Public, Static, Literal, HasDefault
+    Int32 Resume = 9 : Public, Static, Literal, HasDefault
+    UInt16 P300CMD = 10 : Public, Static, Literal, HasDefault
+    UInt16 StartTrial = 11 : Public, Static, Literal, HasDefault
+    UInt16 MIStep = 12 : Public, Static, Literal, HasDefault
+    UInt16 SendCmdString = 65535 : Public, Static, Literal, HasDefault
+    UInt16 StartRecord = 20 : Public, Static, Literal, HasDefault
+    UInt16 StopRecord = 21 : Public, Static, Literal, HasDefault
+    UInt16 SendStimCode = 22 : Public, Static, Literal, HasDefault
+    Int32 Timer_Start = 30 : Public, Static, Literal, HasDefault
+    Int32 Timer_Pause = 31 : Public, Static, Literal, HasDefault
+    Int32 Timer_Resume = 32 : Public, Static, Literal, HasDefault
+    Int32 Timer_Stop = 33 : Public, Static, Literal, HasDefault
+    Int32 Timer_Elased = 34 : Public, Static, Literal, HasDefault
+    UInt16 MI_Cue = 31 : Public, Static, Literal, HasDefault
+    UInt16 HapticKnob = 32 : Public, Static, Literal, HasDefault
+    Int32 CMD_SENDMESSAGE = 61 : Public, Static, Literal, HasDefault
+    Int32 CMD_SENDGAMEDAT = 62 : Public, Static, Literal, HasDefault
+    Int32 CMD_LoadGamePars = 63 : Public, Static, Literal, HasDefault
+    Int32 CMD_SetGameLevel = 64 : Public, Static, Literal, HasDefault
+Struct BCILib.App.ExternalTools: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    BCILib.App.ExternalTools None = 0 : Public, Static, Literal, HasDefault
+    BCILib.App.ExternalTools WIN_HANDCUE01 = 1 : Public, Static, Literal, HasDefault
+    BCILib.App.ExternalTools WIN_HAPTIC_KNOB = 2 : Public, Static, Literal, HasDefault
+    BCILib.App.ExternalTools WIN_SWALLOW_CUE = 3 : Public, Static, Literal, HasDefault
+Class BCILib.App.SelectSubjectForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String Subject 'get ' : 
+    System.String SubjectWithDate 'get ' : 
+  Methods:
+    get_Subject(): PrivateScope, Public, HideBySig, SpecialName
+    get_SubjectWithDate(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.TrainDirSpecForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String TrainingDirectory 'get ' : 
+    System.String TrainSubject 'get set' : 
+  Methods:
+    get_TrainingDirectory(): PrivateScope, Public, HideBySig, SpecialName
+    get_TrainSubject(): PrivateScope, Public, HideBySig, SpecialName
+    set_TrainSubject(String): PrivateScope, Public, HideBySig, SpecialName
+    ChkTrainingPath(ResManager): PrivateScope, Public, HideBySig
+    ChkTrainingPath(ResManager, Boolean): PrivateScope, Public, HideBySig
+    GetTrainingPath(ResManager): PrivateScope, Public, Static, HideBySig
+    GetTrainingPath(ResManager, Boolean): PrivateScope, Public, Static, HideBySig
+Class BCILib.App.ExternalBCIApp: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    LoadGameList(): PrivateScope, Public, HideBySig
+    LaunchGame(): PrivateScope, Public, HideBySig
+Class BCILib.App.UserInfoForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String Subject 'get set' : 
+  Methods:
+    set_Subject(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Subject(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.Concentration.StroopTestForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean DryRun 'get set' : 
+  Methods:
+    set_DryRun(Boolean): PrivateScope, Public, HideBySig, SpecialName
+    get_DryRun(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.EngineProc.BCICSEngine: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  :BCILib.App.BCIEngine
+  Fields:
+    Int32 SamplingRate : Public
+  Properties:
+    Int32 NumChannelUsed 'get ' : 
+    Int32 NumSampleUsed 'get ' : 
+    Int32[] SelectedChannels 'get ' : 
+  Methods:
+    get_NumChannelUsed(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_NumSampleUsed(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_SelectedChannels(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.EngineProc.MIFLDEngine: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :BCILib.EngineProc.BCICSEngine
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Action`2[System.Int32,System.Double[]] _output_score : Public
+  Properties:
+    IntPtr Processor 'get ' : 
+  Methods:
+    SetFeedbackHandler(Delegate): PrivateScope, Public, Virtual, HideBySig
+    ProcEEGBuf(Single[], Int32, Int32): PrivateScope, Public, Virtual, HideBySig
+    Initialize(String): PrivateScope, Public, Virtual, HideBySig
+    Initialize(Hashtable): PrivateScope, Public, Virtual, HideBySig
+    Free(): PrivateScope, Public, Virtual, HideBySig
+    get_Processor(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+Struct BCILib.MotorImagery.ArtsBCI.RehabAction: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    BCILib.MotorImagery.ArtsBCI.RehabAction None = 0 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.RehabAction OpenClose = 1 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.RehabAction Rotate = 2 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.RehabAction Alternative = 3 : Public, Static, Literal, HasDefault
+Struct BCILib.MotorImagery.ArtsBCI.RehabCommand: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    BCILib.MotorImagery.ArtsBCI.RehabCommand None = 0 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.RehabCommand Reset = 1 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.RehabCommand SetWindow = 2 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.RehabCommand FadeIn = 3 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.RehabCommand FadeOut = 4 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.RehabCommand PassiveMovement = 5 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.RehabCommand AssistiveMovement = 6 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.RehabCommand WaitForFinish = 7 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.RehabCommand Stop = 8 : Public, Static, Literal, HasDefault
+Class BCILib.MotorImagery.ArtsBCI.FB_Accumulate: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BCILib.MotorImagery.ArtsBCI.FB_RehabScoreBar: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :BCILib.MotorImagery.ArtsBCI.FB_Accumulate
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BCILib.MotorImagery.ArtsBCI.FLDScoreViewer: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Double max_scale : Public
+  Properties:
+    Double Accuracy 'get ' : 
+    Int32 TotalTrials 'get ' : 
+  Methods:
+    StartAccumulate(Int32, Action`1): PrivateScope, Public, HideBySig
+    Initialize(): PrivateScope, Public, HideBySig
+    SetBias(Double): PrivateScope, Public, HideBySig
+    get_Accuracy(): PrivateScope, Public, HideBySig, SpecialName
+    GetFeedbackMessage(String, String): PrivateScope, Public, HideBySig
+    GetAccMessage(): PrivateScope, Public, HideBySig
+    get_TotalTrials(): PrivateScope, Public, HideBySig, SpecialName
+    SetAccuTimes(Int32, Int32): PrivateScope, Public, HideBySig
+Struct BCILib.MotorImagery.ArtsBCI.FB_FLAG: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    BCILib.MotorImagery.ArtsBCI.FB_FLAG None = 0 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.FB_FLAG FLDScore = 1 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.FB_FLAG SmileyFace = 2 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.FB_FLAG Message = 4 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.FB_FLAG All = 7 : Public, Static, Literal, HasDefault
+Class BCILib.MotorImagery.ArtsBCI.FB_Form: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Drawing.Image[] smiley_faces : Public, Static
+  Methods:
+    SetFeedbackFlag(FB_FLAG, Boolean): PrivateScope, Public, HideBySig
+    LoadSmileyFaces(): PrivateScope, Public, Static, HideBySig
+    Set_Message(String): PrivateScope, Public, HideBySig
+    Set_Result(String): PrivateScope, Public, HideBySig
+    SetFeedbackType(FBType): PrivateScope, Public, HideBySig
+Struct BCILib.MotorImagery.ArtsBCI.FB_Form+SmileyFace: AutoLayout, AnsiClass, Class, NestedPublic, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    SmileyFace None = 0 : Public, Static, Literal, HasDefault
+    SmileyFace Sucess = 1 : Public, Static, Literal, HasDefault
+    SmileyFace Fail = 2 : Public, Static, Literal, HasDefault
+    SmileyFace Encourage = 3 : Public, Static, Literal, HasDefault
+Struct BCILib.MotorImagery.ArtsBCI.FB_Form+FBType: AutoLayout, AnsiClass, Class, NestedPublic, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FBType None = 0 : Public, Static, Literal, HasDefault
+    FBType TwoClassBar = 1 : Public, Static, Literal, HasDefault
+    FBType RehabOpen = 2 : Public, Static, Literal, HasDefault
+Class BCILib.MotorImagery.ArtsBCI.FB_TwoClassBar: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :BCILib.MotorImagery.ArtsBCI.FB_Accumulate
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Struct BCILib.MotorImagery.ArtsBCI.TestKeyAction: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    BCILib.MotorImagery.ArtsBCI.TestKeyAction None = 0 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.TestKeyAction Sucess = 1 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.ArtsBCI.TestKeyAction Fail = 2 : Public, Static, Literal, HasDefault
+Class BCILib.MotorImagery.BCIManus.RecordEEGForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BCILib.MotorImagery.FLDAccumulator: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    BCILib.App.BCITask GameType : Public
+    Double cfg_score_bias : Public
+    BCILib.MotorImagery.FLDProcessor Processor : Public
+    BCILib.MotorImagery.ArtsBCI.FLDScoreViewer fldScoreViewer : Public
+  Properties:
+    System.String FeedbackText 'set' : 
+  Methods:
+    LoadConfig(ResManager): PrivateScope, Public, HideBySig
+    LoadModel(ResManager, Amplifier, String): PrivateScope, Public, HideBySig
+    UpdateScore(): PrivateScope, Public, HideBySig
+    set_FeedbackText(String): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.App.BCIProcessor: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(BCIProcType): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BCILib.App.BCIEngine): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Properties:
+    Int32 NumSampleUsed 'get set' : 
+    Int32 NumChannelUsed 'get set' : 
+    BCILib.Amp.Amplifier Amplifier 'get ' : 
+  Methods:
+    CrtProcessor(String): PrivateScope, Public, Static, HideBySig
+    get_NumSampleUsed(): PrivateScope, Public, HideBySig, SpecialName
+    set_NumSampleUsed(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_NumChannelUsed(): PrivateScope, Public, HideBySig, SpecialName
+    set_NumChannelUsed(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Amplifier(): PrivateScope, Public, HideBySig, SpecialName
+    SetAmplifier(Amplifier, String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetReadingShift(Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetReadingPos(): PrivateScope, Public, HideBySig
+    SetReadingPos(Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Process(Int32&(Out)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetReadingCodes(Int32, Int32[]): PrivateScope, Public, HideBySig
+    SetFeedbackHandler(Delegate): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Free(): PrivateScope, Public, HideBySig
+    ProcessEEGBuf(): PrivateScope, Public, HideBySig
+    StartEventProcessing(): PrivateScope, Public, HideBySig
+    StopEventProcessing(): PrivateScope, Public, HideBySig
+    Process(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+Class BCILib.MotorImagery.FLDProcessor: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :BCILib.App.BCIProcessor
+  Events:
+    System.Action`1[System.Double[]] evt_out_score: 
+  Methods:
+    SetAmplifier(Amplifier, String): PrivateScope, Public, Virtual, HideBySig
+    add_evt_out_score(Action`1): PrivateScope, Public, HideBySig, SpecialName
+    remove_evt_out_score(Action`1): PrivateScope, Public, HideBySig, SpecialName
+    SetReadingShift(Int32): PrivateScope, Public, Virtual, HideBySig
+    SetFeedbackHandler(Delegate): PrivateScope, Public, Virtual, HideBySig
+Class BCILib.MotorImagery.MIFeedback: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Double MIBias 'get set' : 
+    Boolean IsVisible 'get set' : 
+  Methods:
+    Configurate(String, ToolStripItem): PrivateScope, Public, HideBySig
+    set_MIBias(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_MIBias(): PrivateScope, Public, HideBySig, SpecialName
+    ShowScore(Int32, Int32, Double, Boolean): PrivateScope, Public, HideBySig
+    Reset(): PrivateScope, Public, HideBySig
+    set_IsVisible(Boolean): PrivateScope, Public, HideBySig, SpecialName
+    get_IsVisible(): PrivateScope, Public, HideBySig, SpecialName
+Struct BCILib.MotorImagery.MIFeedback+MI_FLAGS: AutoLayout, AnsiClass, Class, NestedPublic, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    MI_FLAGS None = 0 : Public, Static, Literal, HasDefault
+    MI_FLAGS Left = 1 : Public, Static, Literal, HasDefault
+    MI_FLAGS Right = 2 : Public, Static, Literal, HasDefault
+    MI_FLAGS Tongue = 4 : Public, Static, Literal, HasDefault
+    MI_FLAGS Feet = 8 : Public, Static, Literal, HasDefault
+    MI_FLAGS Idle = 16 : Public, Static, Literal, HasDefault
+Class BCILib.MotorImagery.MITrainingDataCollection: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String TaskString 'set' : 
+  Methods:
+    set_TaskString(String): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.MotorImagery.SelectModelForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String SelectedModel 'get ' : 
+  Methods:
+    get_SelectedModel(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.MotorImagery.SimpleDataCollectionForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    BCILib.MotorImagery.FeedbackInterface
+Class BCILib.Util.SelfDrawPannel: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Panel
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BCILibCS.Util.SerialPortCtrl: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String SelComport 'get set' : 
+    System.String[] PortNames 'get ' : 
+  Methods:
+    RefreshPortList(): PrivateScope, Public, HideBySig
+    set_SelComport(String): PrivateScope, Public, HideBySig, SpecialName
+    get_SelComport(): PrivateScope, Public, HideBySig, SpecialName
+    SetDtr(Boolean): PrivateScope, Public, HideBySig
+    SetRTS(Boolean): PrivateScope, Public, HideBySig
+    CloseOpenPorts(): PrivateScope, Public, HideBySig
+    SelKeyPorts(String): PrivateScope, Public, HideBySig
+    get_PortNames(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.Util.SocketReadWrite: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.Net.Sockets.Socket): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    ReadLine(Int32): PrivateScope, Public, HideBySig
+    WriteLine(String): PrivateScope, Public, HideBySig
+    WriteLine(String, Object[]): PrivateScope, Public, HideBySig
+    GetBroadcastAddress(): PrivateScope, Public, Static, HideBySig
+Class BCILib.Util.TCPConfigCtrl: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String Host 'get set' : 
+    Int32 Port 'get set' : 
+  Methods:
+    set_Host(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Host(): PrivateScope, Public, HideBySig, SpecialName
+    set_Port(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Port(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.Util.UC_HProgressBar: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 Value 'get set' : 
+  Methods:
+    set_Value(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Value(): PrivateScope, Public, HideBySig, SpecialName
+    ShowProgress(Int32, Int32, ManualResetEvent): PrivateScope, Public, HideBySig
+Class BCILib.Util.USBMOD4: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Methods:
+    Close(): PrivateScope, Public, Static, HideBySig
+    TryFind(): PrivateScope, Public, Static, HideBySig
+    SendCode(Int32): PrivateScope, Public, Static, HideBySig
+Class BCILib.Util.USBVibrationForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(BCILib.Util.USBVibrator): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BCILib.Util.USBVibrator: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean Started 'get ' : 
+    Boolean IsPresent 'get ' : 
+  Methods:
+    Open(): PrivateScope, Public, HideBySig
+    Close(): PrivateScope, Public, HideBySig
+    Start(): PrivateScope, Public, HideBySig
+    Stop(): PrivateScope, Public, HideBySig
+    get_Started(): PrivateScope, Public, HideBySig, SpecialName
+    Channel_Select(Int32): PrivateScope, Public, HideBySig
+    Config_Channel_Output(Byte): PrivateScope, Public, HideBySig
+    get_IsPresent(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.Util.UserCtrlForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    ShowCtrl(UserControl): PrivateScope, Public, Static, HideBySig
+Class BCILib.MotorImagery.MIConstDef: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :BCILib.App.BCICfg
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String BCIType = BCIMotorImagery : Public, Static, Literal, HasDefault
+    System.String TrainingCfgFileName = MITrain.cfg : Public, Static, Literal, HasDefault
+    System.String MITraining = MITraining : Public, Static, Literal, HasDefault
+    System.String ModelTrainingSetting = ModelTrainingSetting : Public, Static, Literal, HasDefault
+    System.String Train_MTS_Para = Train_MTS_Para : Public, Static, Literal, HasDefault
+    System.String Train_MTS_Channels = Train_MTS_Channels : Public, Static, Literal, HasDefault
+    System.String Used_Channels = Used_Channels : Public, Static, Literal, HasDefault
+    System.String MIProcess = MIProcess : Public, Static, Literal, HasDefault
+    System.String MultiTimeModel = MultiTimeModel : Public, Static, Literal, HasDefault
+    System.String ClassLabels = ClassLabels : Public, Static, Literal, HasDefault
+    System.String ModelPattern = ModelPattern : Public, Static, Literal, HasDefault
+    System.String Number_tasks = Number_tasks : Public, Static, Literal, HasDefault
+    System.String Num_Moving_Steps = Num_Moving_Steps : Public, Static, Literal, HasDefault
+    System.String Finger_Click = Finger_Click : Public, Static, Literal, HasDefault
+    System.String Finger_LeftClick = Finger_LeftClick : Public, Static, Literal, HasDefault
+    System.String Finger_RightClick = Finger_RightClick : Public, Static, Literal, HasDefault
+    System.String Tongue_Move = Tongue_Move : Public, Static, Literal, HasDefault
+    System.String Foot_Move = Foot_Move : Public, Static, Literal, HasDefault
+    System.String BeepAfterRest = BeepAfterRest : Public, Static, Literal, HasDefault
+    System.String Task_Configure = Task_Configure : Public, Static, Literal, HasDefault
+    System.String Key_Configure = Key_Configure : Public, Static, Literal, HasDefault
+    System.String Rehab_Action = Rehab_Action : Public, Static, Literal, HasDefault
+    System.String Rehab_Repeat = Rehab_Repeat : Public, Static, Literal, HasDefault
+    System.String MITest = MITest : Public, Static, Literal, HasDefault
+    System.String MI_Num_Score = MI_Num_Score : Public, Static, Literal, HasDefault
+    System.String MI_Shift_Score = MI_Shift_Score : Public, Static, Literal, HasDefault
+    System.String MI_Num_Rehab = MI_Num_Rehab : Public, Static, Literal, HasDefault
+    System.String MI_Num_Supervise = MI_Num_Supervise : Public, Static, Literal, HasDefault
+    System.String ModelList = Models.lst : Public, Static, Literal, HasDefault
+  Properties:
+    System.String DefChannels 'get ' : 
+  Methods:
+    get_DefChannels(): PrivateScope, Public, Static, HideBySig, SpecialName
+Struct BCILib.MotorImagery.MI_STEP: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    BCILib.MotorImagery.MI_STEP MI_None = 0 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MI_STEP MI_Prepare = 1 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MI_STEP MI_Cue = 2 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MI_STEP MI_Action = 3 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MI_STEP MI_Rest = 4 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MI_STEP MI_Rehab = 5 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MI_STEP MI_Success = 6 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MI_STEP MI_Fail = 7 : Public, Static, Literal, HasDefault
+Struct BCILib.MotorImagery.MIAction: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    BCILib.MotorImagery.MIAction None = 0 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MIAction Left = 1 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MIAction Right = 2 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MIAction MITongue = 3 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MIAction Feet = 4 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MIAction Idle = 5 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MIAction LRH = 6 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MIAction LHF = 7 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MIAction RHF = 8 : Public, Static, Literal, HasDefault
+Struct BCILib.MotorImagery.MI_MODEL_TYPE: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    BCILib.MotorImagery.MI_MODEL_TYPE None = 0 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MI_MODEL_TYPE FB_ParzenWindow = 1 : Public, Static, Literal, HasDefault
+    BCILib.MotorImagery.MI_MODEL_TYPE FB_FLD = 2 : Public, Static, Literal, HasDefault
+Class BCILib.MotorImagery.MIProcessor: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :BCILib.App.BCIProcessor
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    SetFeedbackHandler(Delegate): PrivateScope, Public, Virtual, HideBySig
+    Initialize(String[]): PrivateScope, Public, HideBySig
+Class BCILib.MotorImagery.MIProcessor+MIOutout: AutoLayout, AnsiClass, Class, NestedPublic, Sealed
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Double[]): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    BeginInvoke(Double[], AsyncCallback, Object): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class BCILib.MotorImagery.MITrainCrossArrowForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String TaskString 'set' : 
+    System.String[] KeyCodes 'set' : 
+  Methods:
+    set_TaskString(String): PrivateScope, Public, HideBySig, SpecialName
+    set_KeyCodes(String[]): PrivateScope, Public, HideBySig, SpecialName
+    ShowProgress(Int32, Boolean): PrivateScope, Public, HideBySig
+Class BCILib.MotorImagery.MITrainMTSModelForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    SetMIClassLabels(Int32[]): PrivateScope, Public, HideBySig
+Class BCILib.MotorImagery.MITaskConfig: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String TASK_IDLIST = LRTFI : Public, Static, Literal, HasDefault
+  Properties:
+    System.String TaskCfg 'get ' : 
+    System.String TaskString 'get set' : 
+    System.String[] KeyCodes 'get set' : 
+    System.String KeyCodeString 'get set' : 
+    BCILib.MotorImagery.ArtsBCI.RehabAction Action 'get set' : 
+    Int32 NumRepeats 'get set' : 
+  Methods:
+    get_TaskCfg(): PrivateScope, Public, HideBySig, SpecialName
+    get_TaskString(): PrivateScope, Public, HideBySig, SpecialName
+    set_TaskString(String): PrivateScope, Public, HideBySig, SpecialName
+    get_KeyCodes(): PrivateScope, Public, HideBySig, SpecialName
+    set_KeyCodes(String[]): PrivateScope, Public, HideBySig, SpecialName
+    get_KeyCodeString(): PrivateScope, Public, HideBySig, SpecialName
+    set_KeyCodeString(String): PrivateScope, Public, HideBySig, SpecialName
+    SaveConfigure(ResManager): PrivateScope, Public, HideBySig
+    get_Action(): PrivateScope, Public, HideBySig, SpecialName
+    set_Action(RehabAction): PrivateScope, Public, HideBySig, SpecialName
+    get_NumRepeats(): PrivateScope, Public, HideBySig, SpecialName
+    set_NumRepeats(Int32): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.P300.BCI_P300_Console: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :BCILib.App.BCIAppForm
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BCILib.P300.P300ConfigCtrl: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String P300Speller 'get ' : 
+    Int32 NumEpochPerRound 'get set' : 
+    Int32 NumRound 'get set' : 
+    System.String AppName 'get set' : 
+    Int32 PreStimDuration 'get set' : 
+    Int32 PostStimDuration 'get set' : 
+    System.String ChannelNames 'get set' : 
+    System.String P300UsedChannels 'get set' : 
+    Int32 SamplingRate 'get set' : 
+    Int32 Intensification 'get set' : 
+    Int32 NonIntensification 'get set' : 
+    System.String SpellerChars 'get set' : 
+    Int32 PauseBwChar 'get set' : 
+    Int32 FlashDuration 'get set' : 
+    Int32 NoRepeatTime 'get set' : 
+    Int32 CharIndication 'get set' : 
+    Int32 CharBlank 'get set' : 
+    Int32 GUIColumns 'get set' : 
+    Int32 NumForNearCheck 'get set' : 
+    Int32 StimNearCheckFrom 'get set' : 
+    Int32 StimNearCheckTo 'get set' : 
+    BCILib.Util.ResManager Resource 'get ' : 
+    System.String TrainingSplFilePath 'get ' : 
+    System.String TrainModelFileList 'get set' : 
+    System.String TrainRejectFileList 'get set' : 
+    Int32 StartProcTimeAftStim 'get set' : 
+    Int32 EndProcTimeAftStim 'get set' : 
+    Int32 FreqHighStop 'get set' : 
+    Boolean UseDelta 'get set' : 
+  Methods:
+    get_P300Speller(): PrivateScope, Public, HideBySig, SpecialName
+    InitContent(): PrivateScope, Public, HideBySig
+    get_NumEpochPerRound(): PrivateScope, Public, HideBySig, SpecialName
+    set_NumEpochPerRound(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_NumRound(): PrivateScope, Public, HideBySig, SpecialName
+    set_NumRound(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_AppName(): PrivateScope, Public, HideBySig, SpecialName
+    set_AppName(String): PrivateScope, Public, HideBySig, SpecialName
+    get_PreStimDuration(): PrivateScope, Public, HideBySig, SpecialName
+    set_PreStimDuration(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_PostStimDuration(): PrivateScope, Public, HideBySig, SpecialName
+    set_PostStimDuration(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_ChannelNames(): PrivateScope, Public, HideBySig, SpecialName
+    set_ChannelNames(String): PrivateScope, Public, HideBySig, SpecialName
+    get_P300UsedChannels(): PrivateScope, Public, HideBySig, SpecialName
+    set_P300UsedChannels(String): PrivateScope, Public, HideBySig, SpecialName
+    get_SamplingRate(): PrivateScope, Public, HideBySig, SpecialName
+    set_SamplingRate(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Intensification(): PrivateScope, Public, HideBySig, SpecialName
+    set_Intensification(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_NonIntensification(): PrivateScope, Public, HideBySig, SpecialName
+    set_NonIntensification(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_SpellerChars(): PrivateScope, Public, HideBySig, SpecialName
+    set_SpellerChars(String): PrivateScope, Public, HideBySig, SpecialName
+    get_PauseBwChar(): PrivateScope, Public, HideBySig, SpecialName
+    set_PauseBwChar(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_FlashDuration(): PrivateScope, Public, HideBySig, SpecialName
+    set_FlashDuration(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_NoRepeatTime(): PrivateScope, Public, HideBySig, SpecialName
+    set_NoRepeatTime(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_CharIndication(): PrivateScope, Public, HideBySig, SpecialName
+    set_CharIndication(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_CharBlank(): PrivateScope, Public, HideBySig, SpecialName
+    set_CharBlank(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_GUIColumns(): PrivateScope, Public, HideBySig, SpecialName
+    set_GUIColumns(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_NumForNearCheck(): PrivateScope, Public, HideBySig, SpecialName
+    set_NumForNearCheck(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_StimNearCheckFrom(): PrivateScope, Public, HideBySig, SpecialName
+    set_StimNearCheckFrom(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_StimNearCheckTo(): PrivateScope, Public, HideBySig, SpecialName
+    set_StimNearCheckTo(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Resource(): PrivateScope, Public, HideBySig, SpecialName
+    Save(): PrivateScope, Public, HideBySig
+    get_TrainingSplFilePath(): PrivateScope, Public, HideBySig, SpecialName
+    get_TrainModelFileList(): PrivateScope, Public, HideBySig, SpecialName
+    set_TrainModelFileList(String): PrivateScope, Public, HideBySig, SpecialName
+    get_TrainRejectFileList(): PrivateScope, Public, HideBySig, SpecialName
+    set_TrainRejectFileList(String): PrivateScope, Public, HideBySig, SpecialName
+    get_StartProcTimeAftStim(): PrivateScope, Public, HideBySig, SpecialName
+    set_StartProcTimeAftStim(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_EndProcTimeAftStim(): PrivateScope, Public, HideBySig, SpecialName
+    set_EndProcTimeAftStim(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_FreqHighStop(): PrivateScope, Public, HideBySig, SpecialName
+    set_FreqHighStop(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_UseDelta(): PrivateScope, Public, HideBySig, SpecialName
+    set_UseDelta(Boolean): PrivateScope, Public, HideBySig, SpecialName
+    RefreshContent(): PrivateScope, Public, HideBySig
+Struct P300_WMCMD: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Byte value__ : Public, SpecialName, RTSpecialName
+    P300_WMCMD None = 0 : Public, Static, Literal, HasDefault
+    P300_WMCMD Output_Code_Score = 1 : Public, Static, Literal, HasDefault
+    P300_WMCMD Prepare_Start = 2 : Public, Static, Literal, HasDefault
+    P300_WMCMD Set_Button_State = 3 : Public, Static, Literal, HasDefault
+Struct ButtonState: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    ButtonState Normal = 0 : Public, Static, Literal, HasDefault
+    ButtonState Highlight = 1 : Public, Static, Literal, HasDefault
+    ButtonState Cue = 2 : Public, Static, Literal, HasDefault
+    ButtonState Result = 3 : Public, Static, Literal, HasDefault
+    ButtonState NewLine = 4 : Public, Static, Literal, HasDefault
+    ButtonState Clear = 5 : Public, Static, Literal, HasDefault
+Class P300CMDReader: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Byte[]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    ReadCommand(): PrivateScope, Public, HideBySig
+    ReadInt32(): PrivateScope, Public, HideBySig
+    ReadDouble(): PrivateScope, Public, HideBySig
+Class BCILib.P300.P300Manager: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(BCILib.P300.P300ConfigCtrl): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Threading.ManualResetEvent EvtStopManager : Public
+  Properties:
+    Boolean IsRunning 'get ' : 
+    Int32 CurrentTask 'get ' : 
+    Int32 CharFlashTime 'get ' : 
+    Int32 CharIndicationTime 'get ' : 
+    Int32 NumberOfStim 'get ' : 
+    Int32 NumberOfRound 'get ' : 
+  Events:
+    System.Func`3[System.Int32,System.Double,System.Boolean] P300Output: 
+    System.Action`2[System.Int32,System.Threading.WaitHandle] PrepareProgress: 
+    System.Action`2[System.Int32,ButtonState] SetButtonState: 
+  Methods:
+    GetCharIndex(Char): PrivateScope, Public, HideBySig
+    GetBtnChar(Int32): PrivateScope, Public, HideBySig
+    StartManager(): PrivateScope, Public, HideBySig
+    StartTrainer(): PrivateScope, Public, HideBySig
+    add_P300Output(Func`3): PrivateScope, Public, HideBySig, SpecialName
+    remove_P300Output(Func`3): PrivateScope, Public, HideBySig, SpecialName
+    add_PrepareProgress(Action`2): PrivateScope, Public, HideBySig, SpecialName
+    remove_PrepareProgress(Action`2): PrivateScope, Public, HideBySig, SpecialName
+    add_SetButtonState(Action`2): PrivateScope, Public, HideBySig, SpecialName
+    remove_SetButtonState(Action`2): PrivateScope, Public, HideBySig, SpecialName
+    StopManager(): PrivateScope, Public, HideBySig
+    get_IsRunning(): PrivateScope, Public, HideBySig, SpecialName
+    get_CurrentTask(): PrivateScope, Public, HideBySig, SpecialName
+    get_CharFlashTime(): PrivateScope, Public, HideBySig, SpecialName
+    get_CharIndicationTime(): PrivateScope, Public, HideBySig, SpecialName
+    get_NumberOfStim(): PrivateScope, Public, HideBySig, SpecialName
+    get_NumberOfRound(): PrivateScope, Public, HideBySig, SpecialName
+    BuildP300TrainingDescFile(String, String): PrivateScope, Public, Static, HideBySig
+Struct BCILib.P300.P300Result: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Fields:
+    Int32 result : Public
+    Double confidence : Public
+    Double threshold : Public
+    Boolean accept : Public
+Class BCILib.P300.P300SpellerForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BCILib.P300.P300ConfigCtrl): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BCILib.P300.ModelDataPathForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String ClassifyModelPath 'get set' : 
+    System.String RejectModelPath 'get set' : 
+  Methods:
+    set_ClassifyModelPath(String): PrivateScope, Public, HideBySig, SpecialName
+    get_ClassifyModelPath(): PrivateScope, Public, HideBySig, SpecialName
+    set_RejectModelPath(String): PrivateScope, Public, HideBySig, SpecialName
+    get_RejectModelPath(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.P300.TrainModelForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BCILib.P300.P300ConfigCtrl): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String ModelTrainingPath 'get set' : 
+    System.String RejectionTrainingPath 'get set' : 
+    System.String VLDIdleTrainingPath 'get set' : 
+    System.String VLDEvalTrainingPath 'get set' : 
+    System.String ModelDirectory 'get ' : 
+  Methods:
+    get_ModelTrainingPath(): PrivateScope, Public, HideBySig, SpecialName
+    set_ModelTrainingPath(String): PrivateScope, Public, HideBySig, SpecialName
+    get_RejectionTrainingPath(): PrivateScope, Public, HideBySig, SpecialName
+    set_RejectionTrainingPath(String): PrivateScope, Public, HideBySig, SpecialName
+    get_VLDIdleTrainingPath(): PrivateScope, Public, HideBySig, SpecialName
+    set_VLDIdleTrainingPath(String): PrivateScope, Public, HideBySig, SpecialName
+    get_VLDEvalTrainingPath(): PrivateScope, Public, HideBySig, SpecialName
+    set_VLDEvalTrainingPath(String): PrivateScope, Public, HideBySig, SpecialName
+    get_ModelDirectory(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.sp.Filter: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Double[], Double[]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Init(): PrivateScope, Public, HideBySig
+    Process(Single[]): PrivateScope, Public, HideBySig
+    Process(Double): PrivateScope, Public, HideBySig
+    FiltFilt(Double[]): PrivateScope, Public, HideBySig
+Class BCILib.App.BCIAppStartForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Run(String): PrivateScope, Public, Static, HideBySig
+    Run(String, String): PrivateScope, Public, Static, HideBySig
+    Run(): PrivateScope, Public, Static, HideBySig
+    CreateUplTask(): PrivateScope, Public, Static, HideBySig
+    CreateUplTask(String): PrivateScope, Public, Static, HideBySig
+Class BCILib.Util.EditResItemForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(BCILib.Util.ResManager): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BCILib.Util.HRTimer: AutoLayout, AnsiClass, Class, Public
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetTimestamp(): PrivateScope, Public, Static, HideBySig
+    DeltaMilliseconds(Int64, Int64): PrivateScope, Public, Static, HideBySig
+    DeltaMilliseconds(Int64): PrivateScope, Public, Static, HideBySig
+    Wait(Int32): PrivateScope, Public, Static, HideBySig
+Class BCILib.Util.ConsoleCapture: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  Properties:
+    System.Runtime.InteropServices.SafeHandle WriteHandle 'get ' : 
+  Events:
+    System.Action`1[System.String] OutString: 
+    System.Action evt_resetconsole: 
+  Methods:
+    add_OutString(Action`1): PrivateScope, Public, HideBySig, SpecialName
+    remove_OutString(Action`1): PrivateScope, Public, HideBySig, SpecialName
+    add_evt_resetconsole(Action): PrivateScope, Public, Static, HideBySig, SpecialName
+    remove_evt_resetconsole(Action): PrivateScope, Public, Static, HideBySig, SpecialName
+    ResetConsole(): PrivateScope, Public, Static, HideBySig
+    AddHandler(Action`1): PrivateScope, Public, Static, HideBySig
+    DelHandle(Action`1): PrivateScope, Public, Static, HideBySig
+    StartConsoleFile(String): PrivateScope, Public, Static, HideBySig
+    get_WriteHandle(): PrivateScope, Public, Static, HideBySig, SpecialName
+    StopCapture(): PrivateScope, Public, Static, HideBySig
+Class BCILib.Util.ConsoleCapture+ConsoleFile: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    EndLogFile(): PrivateScope, Public, HideBySig
+Class BCILib.Util.KMCapture: AutoLayout, AnsiClass, Class, Public
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Func`4[System.Windows.Forms.Keys,System.UInt32,System.UInt32,System.Boolean] kbd_output : Public, Static
+  Methods:
+    GetModuleHandle(String): PrivateScope, Public, Static, HideBySig, PinvokeImpl
+Class BCILib.Util.NumberConv: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    HexToDouble(String): PrivateScope, Public, Static, HideBySig
+Class BCILib.Util.ResManager: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean Changed 'get ' : 
+  Methods:
+    get_Changed(): PrivateScope, Public, HideBySig, SpecialName
+    LoadFile(String): PrivateScope, Public, HideBySig
+    SplitString(String): PrivateScope, Public, Static, HideBySig
+    SplitString(String, String): PrivateScope, Public, Static, HideBySig
+    SplitString(String, Int32): PrivateScope, Public, Static, HideBySig
+    LoadFile(String, Boolean): PrivateScope, Public, HideBySig
+    Load(Stream): PrivateScope, Public, HideBySig
+    GetConfigValue(Object, Object): PrivateScope, Public, HideBySig
+    GetConfigValue(Object, Int32&): PrivateScope, Public, HideBySig
+    GetConfigValue(Object, Object, Int32&): PrivateScope, Public, HideBySig
+    GetConfigValue(Object, Boolean&): PrivateScope, Public, HideBySig
+    GetConfigValue(Object, Object, Boolean&): PrivateScope, Public, HideBySig
+    GetConfigValue(Object, Object, Double&): PrivateScope, Public, HideBySig
+    GetConfigValue(Object, String&): PrivateScope, Public, HideBySig
+    GetConfigValue(Object, Object, String&): PrivateScope, Public, HideBySig
+    SaveIfChanged(): PrivateScope, Public, HideBySig
+    GetConfigValue(String): PrivateScope, Public, HideBySig
+    SetConfigValue(Object, Object, Object): PrivateScope, Public, HideBySig
+    SetConfigValue(Object, Object): PrivateScope, Public, HideBySig
+    StringToCharList(String): PrivateScope, Public, Static, HideBySig
+    GetAllResource(): PrivateScope, Public, HideBySig
+    GetAllResProps(String): PrivateScope, Public, HideBySig
+    SaveFile(String): PrivateScope, Public, HideBySig
+    SaveFile(): PrivateScope, Public, HideBySig
+    ShowDialog(): PrivateScope, Public, HideBySig
+    UpdateFile(String): PrivateScope, Public, HideBySig
+    UpdateAllFiles(): PrivateScope, Public, HideBySig
+Class BCILib.Util.SelectStringList: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(System.String[]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String CandidateString 'get set' : 
+    System.String[] Candidates 'get set' : 
+    System.String[] SelectedList 'get set' : 
+    Int32[] SelectedListIndex 'get set' : 
+    System.String SelectedString 'get set' : 
+    Int32 SelectedNum 'get ' : 
+  Methods:
+    get_CandidateString(): PrivateScope, Public, HideBySig, SpecialName
+    set_CandidateString(String): PrivateScope, Public, HideBySig, SpecialName
+    set_Candidates(String[]): PrivateScope, Public, HideBySig, SpecialName
+    get_Candidates(): PrivateScope, Public, HideBySig, SpecialName
+    set_SelectedList(String[]): PrivateScope, Public, HideBySig, SpecialName
+    get_SelectedList(): PrivateScope, Public, HideBySig, SpecialName
+    get_SelectedListIndex(): PrivateScope, Public, HideBySig, SpecialName
+    set_SelectedListIndex(Int32[]): PrivateScope, Public, HideBySig, SpecialName
+    get_SelectedString(): PrivateScope, Public, HideBySig, SpecialName
+    set_SelectedString(String): PrivateScope, Public, HideBySig, SpecialName
+    get_SelectedNum(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.Util.Sound: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Play(String): PrivateScope, Public, Static, HideBySig
+    PlayAsync(String): PrivateScope, Public, Static, HideBySig
+    Beep(UInt32, UInt32): PrivateScope, Public, Static, HideBySig
+    BeepAsunc(UInt32, UInt32): PrivateScope, Public, Static, HideBySig
+    GetLastError(): PrivateScope, Public, Static, HideBySig
+Class BCILib.Util.StartProcForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Diagnostics.ProcessStartInfo): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 ExitCode 'get ' : 
+    System.String OutputString 'get ' : 
+  Methods:
+    Run(): PrivateScope, Public, HideBySig
+    get_ExitCode(): PrivateScope, Public, HideBySig, SpecialName
+    get_OutputString(): PrivateScope, Public, HideBySig, SpecialName
+Class BCILib.App.TestDirSpecForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.DialogResult dlg_result : Public, Static
+  Properties:
+    System.String DataDirectory 'get ' : 
+    System.String TestSubject 'get set' : 
+    Boolean ClearingNeeded 'get ' : 
+  Methods:
+    get_DataDirectory(): PrivateScope, Public, HideBySig, SpecialName
+    get_TestSubject(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestSubject(String): PrivateScope, Public, HideBySig, SpecialName
+    get_ClearingNeeded(): PrivateScope, Public, HideBySig, SpecialName
+    GetProcPath(ResManager): PrivateScope, Public, Static, HideBySig
+    GetProcPath(ResManager, Boolean): PrivateScope, Public, Static, HideBySig
+    GetProcPath(ResManager, Boolean, Boolean): PrivateScope, Public, Static, HideBySig
+Class BCILib.Util.WindowsUtil: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    ReqSystemDisplay(): PrivateScope, Public, Static, HideBySig
+    RelSystemDisplay(): PrivateScope, Public, Static, HideBySig
+    GetForegroundWindow(): PrivateScope, Public, Static, HideBySig, PinvokeImpl
+    GetWindowThreadProcessId(IntPtr, Int32&(Out)): PrivateScope, Public, Static, HideBySig, PinvokeImpl
+Struct BCILib.Util.WindowsUtil+EXECUTION_STATE: AutoLayout, AnsiClass, Class, NestedPublic, Sealed
+  :System.Enum
+  Fields:
+    UInt32 value__ : Public, SpecialName, RTSpecialName
+    EXECUTION_STATE ES_None = 0 : Public, Static, Literal, HasDefault
+    EXECUTION_STATE ES_SYSTEM_REQUIRED = 1 : Public, Static, Literal, HasDefault
+    EXECUTION_STATE ES_DISPLAY_REQUIRED = 2 : Public, Static, Literal, HasDefault
+    EXECUTION_STATE ES_CONTINEOUS = 2147483648 : Public, Static, Literal, HasDefault
+Class BCILib.Util.WMCopyData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(IntPtr, IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 WM_COPYDATA = 74 : Public, Static, Literal, HasDefault
+  Properties:
+    System.String Property 'get ' : 
+    IntPtr[] CliWnds 'get ' : 
+    IntPtr CliWnd 'get ' : 
+  Methods:
+    GetProp(IntPtr, String): PrivateScope, Public, Static, HideBySig, PinvokeImpl
+    SendMessage(IntPtr, UInt32, Int32, Int32): PrivateScope, Public, Static, HideBySig, PinvokeImpl
+    SetProp(IntPtr, String, Int32): PrivateScope, Public, Static, HideBySig, PinvokeImpl
+    RemoveProp(IntPtr, String): PrivateScope, Public, Static, HideBySig, PinvokeImpl
+    get_Property(): PrivateScope, Public, HideBySig, SpecialName
+    GetAllGUIWindows(): PrivateScope, Public, HideBySig
+    get_CliWnds(): PrivateScope, Public, HideBySig, SpecialName
+    GetAllGUIWindows(Boolean): PrivateScope, Public, HideBySig
+    get_CliWnd(): PrivateScope, Public, HideBySig, SpecialName
+    SendClient(Int32): PrivateScope, Public, HideBySig
+    SendClient(Int32, Byte[]): PrivateScope, Public, HideBySig
+    SendClient(Int32, Int32[]): PrivateScope, Public, HideBySig
+    Add(Int32): PrivateScope, Public, HideBySig
+    Add(Double): PrivateScope, Public, HideBySig
+    SendPar(Int32): PrivateScope, Public, HideBySig
+    SendClient(Int32, Double[]): PrivateScope, Public, HideBySig
+    SendClient(Int32, String): PrivateScope, Public, HideBySig
+    SendCmdString(String, Object[]): PrivateScope, Public, HideBySig
+    TranslateMessage(Message): PrivateScope, Public, Static, HideBySig
+    TranslateMessage(Copy_Data): PrivateScope, Public, Static, HideBySig
+Struct BCILib.Util.Copy_Data: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Fields:
+    UInt32 wdata : Public
+    Int32 sz : Public
+    IntPtr pdata : Public
+Struct BCILib.Util.ctrl_msg: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Fields:
+    Int32 cmd : Public
+    Int32 msg : Public
+    Byte[] bva : Public
+    Int32[] iva : Public
+    Double[] dva : Public
+    System.String strdata : Public
+Class BCILib.Util.WMHelper: AutoLayout, AnsiClass, Class, Public
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Register(IntPtr, String): PrivateScope, Public, Static, HideBySig
+    Deregister(): PrivateScope, Public, Static, HideBySig
+    SetRecvCmdHandler(Action`2): PrivateScope, Public, Static, HideBySig

@@ -1,0 +1,5 @@
+# The following files should be copied to the destination directory
+BCILibCS.dll
+BCIProcEngine.dll
+inpout32.dll
+BCIWork.exe

@@ -1,0 +1,14 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly inpout32drv, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class BCILib.Util.InpOut32: AutoLayout, AnsiClass, Class, Public
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Out(Int32): PrivateScope, Public, Static, HideBySig
+    Out(Int32, Int32): PrivateScope, Public, Static, HideBySig
+    Inp(): PrivateScope, Public, Static, HideBySig
+    Inp(Int32): PrivateScope, Public, Static, HideBySig

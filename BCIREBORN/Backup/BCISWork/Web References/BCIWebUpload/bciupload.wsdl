@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="CheckUploadFiles">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="upl_keyword" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="flist" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CheckUploadFilesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CheckUploadFilesResult" type="tns:ArrayOfInt" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfInt">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="int" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CheckUploadFileLength">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="upl_keyword" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="flist" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="slist" type="tns:ArrayOfInt" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckUploadFileLengthResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CheckUploadFileLengthResult" type="tns:ArrayOfInt" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UploadFilePart">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="keyword" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="path" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="start" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="len" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="buf" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UploadFilePartResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="UploadFilePartResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="keyword" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="path" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="size" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="upd_time" type="s:long" />
+            <s:element minOccurs="1" maxOccurs="1" name="crt_time" type="s:long" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CheckFileResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IsValidAccess">
+        <s:complexType />
+      </s:element>
+      <s:element name="IsValidAccessResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="IsValidAccessResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetServerDesc">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetServerDescResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetServerDescResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AuthenticateApp">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="client_secret" type="s:long" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AuthenticateAppResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AuthenticateAppResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CheckUploadFilesSoapIn">
+    <wsdl:part name="parameters" element="tns:CheckUploadFiles" />
+  </wsdl:message>
+  <wsdl:message name="CheckUploadFilesSoapOut">
+    <wsdl:part name="parameters" element="tns:CheckUploadFilesResponse" />
+  </wsdl:message>
+  <wsdl:message name="CheckUploadFileLengthSoapIn">
+    <wsdl:part name="parameters" element="tns:CheckUploadFileLength" />
+  </wsdl:message>
+  <wsdl:message name="CheckUploadFileLengthSoapOut">
+    <wsdl:part name="parameters" element="tns:CheckUploadFileLengthResponse" />
+  </wsdl:message>
+  <wsdl:message name="UploadFilePartSoapIn">
+    <wsdl:part name="parameters" element="tns:UploadFilePart" />
+  </wsdl:message>
+  <wsdl:message name="UploadFilePartSoapOut">
+    <wsdl:part name="parameters" element="tns:UploadFilePartResponse" />
+  </wsdl:message>
+  <wsdl:message name="CheckFileSoapIn">
+    <wsdl:part name="parameters" element="tns:CheckFile" />
+  </wsdl:message>
+  <wsdl:message name="CheckFileSoapOut">
+    <wsdl:part name="parameters" element="tns:CheckFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="IsValidAccessSoapIn">
+    <wsdl:part name="parameters" element="tns:IsValidAccess" />
+  </wsdl:message>
+  <wsdl:message name="IsValidAccessSoapOut">
+    <wsdl:part name="parameters" element="tns:IsValidAccessResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetServerDescSoapIn">
+    <wsdl:part name="parameters" element="tns:GetServerDesc" />
+  </wsdl:message>
+  <wsdl:message name="GetServerDescSoapOut">
+    <wsdl:part name="parameters" element="tns:GetServerDescResponse" />
+  </wsdl:message>
+  <wsdl:message name="AuthenticateAppSoapIn">
+    <wsdl:part name="parameters" element="tns:AuthenticateApp" />
+  </wsdl:message>
+  <wsdl:message name="AuthenticateAppSoapOut">
+    <wsdl:part name="parameters" element="tns:AuthenticateAppResponse" />
+  </wsdl:message>
+  <wsdl:portType name="BCIUploadSoap">
+    <wsdl:operation name="CheckUploadFiles">
+      <wsdl:input message="tns:CheckUploadFilesSoapIn" />
+      <wsdl:output message="tns:CheckUploadFilesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckUploadFileLength">
+      <wsdl:input message="tns:CheckUploadFileLengthSoapIn" />
+      <wsdl:output message="tns:CheckUploadFileLengthSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UploadFilePart">
+      <wsdl:input message="tns:UploadFilePartSoapIn" />
+      <wsdl:output message="tns:UploadFilePartSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckFile">
+      <wsdl:input message="tns:CheckFileSoapIn" />
+      <wsdl:output message="tns:CheckFileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IsValidAccess">
+      <wsdl:input message="tns:IsValidAccessSoapIn" />
+      <wsdl:output message="tns:IsValidAccessSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetServerDesc">
+      <wsdl:input message="tns:GetServerDescSoapIn" />
+      <wsdl:output message="tns:GetServerDescSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AuthenticateApp">
+      <wsdl:input message="tns:AuthenticateAppSoapIn" />
+      <wsdl:output message="tns:AuthenticateAppSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BCIUploadSoap" type="tns:BCIUploadSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CheckUploadFiles">
+      <soap:operation soapAction="http://tempuri.org/CheckUploadFiles" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckUploadFileLength">
+      <soap:operation soapAction="http://tempuri.org/CheckUploadFileLength" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadFilePart">
+      <soap:operation soapAction="http://tempuri.org/UploadFilePart" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckFile">
+      <soap:operation soapAction="http://tempuri.org/CheckFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IsValidAccess">
+      <soap:operation soapAction="http://tempuri.org/IsValidAccess" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetServerDesc">
+      <soap:operation soapAction="http://tempuri.org/GetServerDesc" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AuthenticateApp">
+      <soap:operation soapAction="http://tempuri.org/AuthenticateApp" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="BCIUploadSoap12" type="tns:BCIUploadSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CheckUploadFiles">
+      <soap12:operation soapAction="http://tempuri.org/CheckUploadFiles" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckUploadFileLength">
+      <soap12:operation soapAction="http://tempuri.org/CheckUploadFileLength" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadFilePart">
+      <soap12:operation soapAction="http://tempuri.org/UploadFilePart" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckFile">
+      <soap12:operation soapAction="http://tempuri.org/CheckFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IsValidAccess">
+      <soap12:operation soapAction="http://tempuri.org/IsValidAccess" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetServerDesc">
+      <soap12:operation soapAction="http://tempuri.org/GetServerDesc" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AuthenticateApp">
+      <soap12:operation soapAction="http://tempuri.org/AuthenticateApp" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="BCIUpload">
+    <wsdl:port name="BCIUploadSoap" binding="tns:BCIUploadSoap">
+      <soap:address location="https://bci.i2r.a-star.edu.sg/BCIUpdate/bciupload.asmx" />
+    </wsdl:port>
+    <wsdl:port name="BCIUploadSoap12" binding="tns:BCIUploadSoap12">
+      <soap12:address location="https://bci.i2r.a-star.edu.sg/BCIUpdate/bciupload.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

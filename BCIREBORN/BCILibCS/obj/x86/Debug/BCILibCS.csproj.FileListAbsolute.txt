@@ -1,0 +1,485 @@
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\bin\x86\Debug\BCILibCS.dll.config
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\bin\x86\Debug\BCILibCS.dll
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\bin\x86\Debug\BCILibCS.pdb
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Amp.AmpViewer.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Amp.AmpContainer.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Amp.BioRadio150Cfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Amp.FakeAmplifier_Config.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Amp.NeuroScanCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Amp.SelAmpChannel.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Amp.SelectAmplifierForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Amp.ThinkGearConfigForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.App.BCIAppForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.App.ConfirmNewGame.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.App.ConsoleOutForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.App.FindAppForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.App.SelectSubjectForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.TrainDirSpecForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.App.ExternalBCIApp.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.App.UserInfoForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Concentration.BCIConcentration.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Concentration.StoryForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Concentration.ConcentrationTrainCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Concentration.StroopTestForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Concentration.StroopTestCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Concentration.ConcentrateGamesCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.BCIHapticKnob.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FLDScoreViewer.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.MIHapticKnobForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MIFeedback.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILibCS.Util.SerialPortCtrl.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Util.UserCtrlForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainCrossArrowForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainMTSModelForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITaskConfig.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MotorImageGame.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.P300.BCI_P300_Console.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.P300.P300ConfigCtrl.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.P300.P300SpellerForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.P300.ModelDataPathForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.P300.TrainModelForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Properties.Resources.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.App.BCIAppStartForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Util.EditResItemForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Util.ResForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Util.SelectStringList.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Util.StartProcForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.App.TestDirSpecForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Amp.ChannelCfgForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCICursorCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCICursorCtrl.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCILowerLimb.BCILowerLimbRehab.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.App.StartTaskForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_Accumulate.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_Form.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_TwoClassBar.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCIManus.BCIManusForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCIManus.RecordEEGForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.FLDAccumulator.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MIFLDGameApp.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.SelectModelForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.SimpleDataCollectionForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Util.TCPConfigCtrl.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Util.UC_HProgressBar.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILib.Util.USBVibrationForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILibCS.csproj.GenerateResource.Cache
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILibCS.dll
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCILibCS\obj\x86\Debug\BCILibCS.pdb
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\bin\x86\Debug\BCILibCS.dll.config
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\bin\x86\Debug\BCILibCS.dll
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\bin\x86\Debug\BCILibCS.pdb
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Amp.AmpViewer.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Amp.AmpContainer.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Amp.BioRadio150Cfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Amp.FakeAmplifier_Config.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Amp.NeuroScanCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Amp.SelAmpChannel.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Amp.SelectAmplifierForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Amp.ThinkGearConfigForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.App.BCIAppForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.App.ConfirmNewGame.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.App.ConsoleOutForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.App.FindAppForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.App.SelectSubjectForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.TrainDirSpecForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.App.ExternalBCIApp.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.App.UserInfoForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Concentration.BCIConcentration.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Concentration.StoryForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Concentration.ConcentrationTrainCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Concentration.StroopTestForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Concentration.StroopTestCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Concentration.ConcentrateGamesCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.BCIHapticKnob.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FLDScoreViewer.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.MIHapticKnobForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MIFeedback.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILibCS.Util.SerialPortCtrl.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Util.UserCtrlForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainCrossArrowForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainMTSModelForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITaskConfig.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MotorImageGame.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.P300.BCI_P300_Console.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.P300.P300ConfigCtrl.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.P300.P300SpellerForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.P300.ModelDataPathForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.P300.TrainModelForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Properties.Resources.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.App.BCIAppStartForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Util.EditResItemForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Util.ResForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Util.SelectStringList.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Util.StartProcForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.App.TestDirSpecForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Amp.ChannelCfgForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCICursorCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCICursorCtrl.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCILowerLimb.BCILowerLimbRehab.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.App.StartTaskForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_Accumulate.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_Form.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_TwoClassBar.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCIManus.BCIManusForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCIManus.RecordEEGForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.FLDAccumulator.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MIFLDGameApp.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.SelectModelForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.SimpleDataCollectionForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Util.TCPConfigCtrl.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Util.UC_HProgressBar.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.Util.USBVibrationForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILibCS.csproj.GenerateResource.Cache
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILibCS.dll
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILibCS.pdb
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainingDataCollection.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.dll.config
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.dll
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.pdb
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.AmpViewer.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.AmpContainer.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.BioRadio150Cfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.FakeAmplifier_Config.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.NeuroScanCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.SelAmpChannel.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.SelectAmplifierForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.ThinkGearConfigForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.BCIAppForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ConfirmNewGame.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ConsoleOutForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.FindAppForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.SelectSubjectForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.TrainDirSpecForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ExternalBCIApp.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.UserInfoForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.BCIConcentration.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StoryForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.ConcentrationTrainCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StroopTestForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StroopTestCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.ConcentrateGamesCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.BCIHapticKnob.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FLDScoreViewer.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.MIHapticKnobForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MIFeedback.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.Util.SerialPortCtrl.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.UserCtrlForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainCrossArrowForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainMTSModelForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITaskConfig.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MotorImageGame.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.BCI_P300_Console.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.P300ConfigCtrl.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.P300SpellerForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.ModelDataPathForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.TrainModelForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Properties.Resources.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.BCIAppStartForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.EditResItemForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.ResForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.SelectStringList.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.StartProcForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.TestDirSpecForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.ChannelCfgForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCICursorCfg.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCICursorCtrl.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCILowerLimb.BCILowerLimbRehab.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.StartTaskForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_Accumulate.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_Form.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_TwoClassBar.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCIManus.BCIManusForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCIManus.RecordEEGForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.FLDAccumulator.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MIFLDGameApp.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainingDataCollection.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.SelectModelForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.SimpleDataCollectionForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.TCPConfigCtrl.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.UC_HProgressBar.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.USBVibrationForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.csproj.GenerateResource.Cache
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.dll
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.pdb
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.dll.config
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.dll
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.pdb
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.AmpViewer.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.AmpContainer.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.BioRadio150Cfg.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.FakeAmplifier_Config.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.NeuroScanCfg.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.SelAmpChannel.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.SelectAmplifierForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.ThinkGearConfigForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.BCIAppForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ConfirmNewGame.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ConsoleOutForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.FindAppForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.SelectSubjectForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.TrainDirSpecForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ExternalBCIApp.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.UserInfoForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.BCIConcentration.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StoryForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.ConcentrationTrainCfg.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StroopTestForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StroopTestCfg.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.ConcentrateGamesCfg.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.BCIHapticKnob.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FLDScoreViewer.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.MIHapticKnobForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MIFeedback.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.Util.SerialPortCtrl.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.UserCtrlForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainCrossArrowForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainMTSModelForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITaskConfig.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MotorImageGame.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.BCI_P300_Console.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.P300ConfigCtrl.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.P300SpellerForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.ModelDataPathForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.TrainModelForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Properties.Resources.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.BCIAppStartForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.EditResItemForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.ResForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.SelectStringList.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.StartProcForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.TestDirSpecForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.ChannelCfgForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCICursorCfg.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCICursorCtrl.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCILowerLimb.BCILowerLimbRehab.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.StartTaskForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_Accumulate.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_Form.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_TwoClassBar.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCIManus.BCIManusForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCIManus.RecordEEGForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.FLDAccumulator.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MIFLDGameApp.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainingDataCollection.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.SelectModelForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.SimpleDataCollectionForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.TCPConfigCtrl.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.UC_HProgressBar.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.USBVibrationForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.csproj.GenerateResource.Cache
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.dll
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.pdb
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.dll.config
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.dll
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.pdb
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.AmpViewer.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.AmpContainer.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.BioRadio150Cfg.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.FakeAmplifier_Config.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.NeuroScanCfg.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.SelAmpChannel.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.SelectAmplifierForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.ThinkGearConfigForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.BCIAppForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ConfirmNewGame.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ConsoleOutForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.FindAppForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.SelectSubjectForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.TrainDirSpecForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ExternalBCIApp.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.UserInfoForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.BCIConcentration.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StoryForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.ConcentrationTrainCfg.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StroopTestForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StroopTestCfg.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.ConcentrateGamesCfg.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.BCIHapticKnob.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FLDScoreViewer.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.MIHapticKnobForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MIFeedback.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.Util.SerialPortCtrl.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.UserCtrlForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainCrossArrowForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainMTSModelForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITaskConfig.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MotorImageGame.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.BCI_P300_Console.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.P300ConfigCtrl.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.P300SpellerForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.ModelDataPathForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.TrainModelForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Properties.Resources.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.BCIAppStartForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.EditResItemForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.ResForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.SelectStringList.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.StartProcForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.TestDirSpecForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.ChannelCfgForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCICursorCfg.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCICursorCtrl.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCILowerLimb.BCILowerLimbRehab.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.StartTaskForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_Accumulate.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_Form.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_TwoClassBar.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCIManus.BCIManusForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCIManus.RecordEEGForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.FLDAccumulator.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MIFLDGameApp.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainingDataCollection.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.SelectModelForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.SimpleDataCollectionForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.TCPConfigCtrl.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.UC_HProgressBar.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.USBVibrationForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.dll
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.pdb
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.PicLoader.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.dll.config
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.dll
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.pdb
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.csprojResolveAssemblyReference.cache
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.AmpViewer.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.AmpContainer.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.BioRadio150Cfg.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.FakeAmplifier_Config.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.NeuroScanCfg.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.SelAmpChannel.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.SelectAmplifierForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.ThinkGearConfigForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.BCIAppForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ConfirmNewGame.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ConsoleOutForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.FindAppForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.SelectSubjectForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.TrainDirSpecForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ExternalBCIApp.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.UserInfoForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.BCIConcentration.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StoryForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.ConcentrationTrainCfg.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StroopTestForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StroopTestCfg.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.ConcentrateGamesCfg.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.BCIHapticKnob.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FLDScoreViewer.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.MIHapticKnobForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MIFeedback.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.Util.SerialPortCtrl.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.UserCtrlForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainCrossArrowForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainMTSModelForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITaskConfig.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MotorImageGame.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.BCI_P300_Console.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.P300ConfigCtrl.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.P300SpellerForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.ModelDataPathForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.TrainModelForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Properties.Resources.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.BCIAppStartForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.EditResItemForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.ResForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.SelectStringList.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.StartProcForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.TestDirSpecForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.ChannelCfgForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCICursorCfg.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCICursorCtrl.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCILowerLimb.BCILowerLimbRehab.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.StartTaskForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_Accumulate.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_Form.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_TwoClassBar.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCIManus.BCIManusForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCIManus.RecordEEGForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.PicLoader.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.FLDAccumulator.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MIFLDGameApp.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainingDataCollection.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.SelectModelForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.SimpleDataCollectionForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.TCPConfigCtrl.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.UC_HProgressBar.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.USBVibrationForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.csproj.GenerateResource.Cache
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.dll
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.pdb
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.dll.config
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.dll
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\bin\x86\Debug\BCILibCS.pdb
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.AmpViewer.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.AmpContainer.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.BioRadio150Cfg.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.FakeAmplifier_Config.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.NeuroScanCfg.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.SelAmpChannel.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.SelectAmplifierForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.ThinkGearConfigForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.BCIAppForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ConfirmNewGame.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ConsoleOutForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.FindAppForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.SelectSubjectForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.TrainDirSpecForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.ExternalBCIApp.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.UserInfoForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.BCIConcentration.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StoryForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.ConcentrationTrainCfg.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StroopTestForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.StroopTestCfg.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Concentration.ConcentrateGamesCfg.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.BCIHapticKnob.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FLDScoreViewer.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.MIHapticKnobForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MIFeedback.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.Util.SerialPortCtrl.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.UserCtrlForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainCrossArrowForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainMTSModelForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITaskConfig.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MotorImageGame.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.BCI_P300_Console.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.P300ConfigCtrl.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.P300SpellerForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.ModelDataPathForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.P300.TrainModelForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Properties.Resources.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.BCIAppStartForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.EditResItemForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.ResForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.SelectStringList.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.StartProcForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.TestDirSpecForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Amp.ChannelCfgForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCICursorCfg.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCICursorCtrl.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCILowerLimb.BCILowerLimbRehab.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.App.StartTaskForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_Accumulate.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_Form.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.ArtsBCI.FB_TwoClassBar.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCIManus.BCIManusForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.BCIManus.RecordEEGForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.PicLoader.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.FLDAccumulator.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MIFLDGameApp.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.MITrainingDataCollection.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.SelectModelForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.MotorImagery.SimpleDataCollectionForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.TCPConfigCtrl.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.UC_HProgressBar.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILib.Util.USBVibrationForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.csproj.GenerateResource.Cache
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.dll
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCILibCS\obj\x86\Debug\BCILibCS.pdb

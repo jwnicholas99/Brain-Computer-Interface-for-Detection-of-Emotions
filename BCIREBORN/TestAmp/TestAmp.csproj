@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B9864FD5-6075-40CA-B48B-A4CDBA228340}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TestAmp</RootNamespace>
+    <AssemblyName>TestAmp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <ApplicationIcon>Amp.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Compile Include="BCILibCS\Amp\AmpContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCILibCS\Amp\AmpContainer.Designer.cs">
+      <DependentUpon>AmpContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCILibCS\Amp\Amplifier.cs" />
+    <Compile Include="BCILibCS\Amp\AmpViewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BCILibCS\Amp\AmpViewer.Designer.cs">
+      <DependentUpon>AmpViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCILibCS\Amp\BioRadio150.cs" />
+    <Compile Include="BCILibCS\Amp\BioRadio150.Driver.cs" />
+    <Compile Include="BCILibCS\Amp\BioRadioCfg150.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCILibCS\Amp\BioRadioCfg150.Designer.cs">
+      <DependentUpon>BioRadioCfg150.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCILibCS\Amp\FakeAmplifier.cs" />
+    <Compile Include="BCILibCS\Amp\FakeAmplifier_Config.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCILibCS\Amp\FakeAmplifier_Config.Designer.cs">
+      <DependentUpon>FakeAmplifier_Config.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCILibCS\Amp\FileSimulator.cs" />
+    <Compile Include="BCILibCS\Amp\LiveAmplifier.cs" />
+    <Compile Include="BCILibCS\Amp\LiveSimulator.cs" />
+    <Compile Include="BCILibCS\Amp\NeuroScan.cs" />
+    <Compile Include="BCILibCS\Amp\NeuroScanCfg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCILibCS\Amp\NeuroScanCfg.designer.cs">
+      <DependentUpon>NeuroScanCfg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCILibCS\Amp\SelectAmplifierForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCILibCS\Amp\SelectAmplifierForm.Designer.cs">
+      <DependentUpon>SelectAmplifierForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCILibCS\Amp\ThinkGear.cs" />
+    <Compile Include="BCILibCS\Amp\ThinkGear.Driver.cs" />
+    <Compile Include="BCILibCS\Amp\ThinkGear.Parser.cs" />
+    <Compile Include="BCILibCS\Amp\ThinkGearConfigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCILibCS\Amp\ThinkGearConfigForm.Designer.cs">
+      <DependentUpon>ThinkGearConfigForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCILibCS\App\BCIApplication.cs" />
+    <Compile Include="BCILibCS\App\BCICfg.cs" />
+    <Compile Include="BCILibCS\App\GameCommand.cs" />
+    <Compile Include="BCILibCS\Sp\Filter.cs" />
+    <Compile Include="BCILibCS\Util\EditResItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCILibCS\Util\HRTimer.cs" />
+    <Compile Include="BCILibCS\Util\ParallelPort.cs" />
+    <Compile Include="BCILibCS\Util\ResForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCILibCS\Util\ResManager.cs" />
+    <Compile Include="BCILibCS\Util\SelectStringList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCILibCS\Util\SelectStringList.Designer.cs">
+      <DependentUpon>SelectStringList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCILibCS\Util\SelfDrawPannel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BCILibCS\Util\SelfDrawPannel.Designer.cs">
+      <DependentUpon>SelfDrawPannel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCILibCS\Util\SerialPortCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BCILibCS\Util\SerialPortCtrl.designer.cs">
+      <DependentUpon>SerialPortCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCILibCS\Util\Sound.cs" />
+    <Compile Include="BCILibCS\Util\StringTool.cs" />
+    <Compile Include="BCILibCS\Util\WMCopyData.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BCILibCS\Amp\AmpContainer.resx">
+      <DependentUpon>AmpContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCILibCS\Amp\AmpViewer.resx">
+      <DependentUpon>AmpViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCILibCS\Amp\BioRadioCfg150.resx">
+      <DependentUpon>BioRadioCfg150.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCILibCS\Amp\FakeAmplifier_Config.resx">
+      <DependentUpon>FakeAmplifier_Config.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCILibCS\Amp\NeuroScanCfg.resx">
+      <DependentUpon>NeuroScanCfg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCILibCS\Amp\SelectAmplifierForm.resx">
+      <DependentUpon>SelectAmplifierForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCILibCS\Amp\ThinkGearConfigForm.resx">
+      <DependentUpon>ThinkGearConfigForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCILibCS\Util\EditResItemForm.resx">
+      <DependentUpon>EditResItemForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCILibCS\Util\ResForm.resx">
+      <DependentUpon>ResForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCILibCS\Util\SelectStringList.resx">
+      <DependentUpon>SelectStringList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCILibCS\Util\SerialPortCtrl.resx">
+      <DependentUpon>SerialPortCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Amp.ico" />
+    <Content Include="thinkgear.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>

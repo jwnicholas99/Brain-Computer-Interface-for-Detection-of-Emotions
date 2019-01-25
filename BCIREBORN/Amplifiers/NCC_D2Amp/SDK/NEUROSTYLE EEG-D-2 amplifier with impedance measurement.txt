@@ -1,0 +1,112 @@
+From:	诺诚测试部 <nctesting@163.com>
+Sent:	Saturday, 25 January 2014 9:02 AM
+To:	Wang Chuan Chu (I2R)
+Cc:	Chang Jia Chuan; Phua Kok Soon (I2R)
+Subject:	Re:RE: Re:FW: NEUROSTYLE EEG-D-2 amplifier with impedance 
+measurement
+
+1.函数SetImpTest是用来设定显示黄灯的；
+2.读上来的数据是20Hz的正弦信号，请首先确认这一点；
+3.阻抗的计算方法例如：将FP1与REF之间接一个40K的电阻，然后用阻抗测试函
+数读取20Hz的正弦波信号，读出来的波形的波幅就是40K档位的基准波幅值，然后
+当FP1与REF实际接到人体时，用阻抗测试函数同样读取20Hz的正弦波信号，所
+测得的波幅值与接40K电阻所读到的波幅值比较，比40K基准波幅大说明头皮阻抗高
+于40K则控制设备量黄灯，如果比40K基准波幅小则说明头皮阻抗低于40K则控制
+设备量绿灯。
+ 
+ 
+
+ 
+在 2014-01-24 17:19:26，"Wang Chuan Chu (I2R)" <ccwang@i2r.a-star.edu.sg> 写道： 
+
+谢谢您的即使回复！
+ 
+根据您的回复，函数SetImpTest是用来设定是否显示黄灯的吗？
+ReadData读上来的数据好像是正弦信号，如何根据它来计算阻抗值呢？
+ 
+谢谢！
+ 
+Thanks and Regards,
+ 
+--
+Chuanchu
+ 
+From: 诺诚测试部 [mailto:nctesting@163.com]  
+Sent: Friday, 24 January 2014 4:06 PM 
+To: Wang Chuan Chu (I2R) 
+Cc: Chang Jia Chuan; Phua Kok Soon (I2R) 
+Subject: Re:FW: NEUROSTYLE EEG-D-2 amplifier with impedance measurement
+ 
+ 
+第一步调用 2.  HARDUSBDLL_API BOOL  Begin(DATA_TYPE dType);//开始采集
+第二步 3.  HARDUSBDLL_API UINT  ReadData(LPVOID pBuff, UINT nReadLen);//读数据函
+数  
+第三步根据读上来的数据计算得到结果，最后1.  HARDUSBDLL_API BOOL  SetImpTest(int 
+*pChannel);//设置PC机阻抗测试结果// 入口参数维
+ 
+另：第一步中Begin() 的参数可以设定为下列四个参数之一：
+               IMPEDANCE_TEST_THRESHOLD_5K,
+     IMPEDANCE_TEST_THRESHOLD_10K,
+     IMPEDANCE_TEST_THRESHOLD_15K,
+     IMPEDANCE_TEST_THRESHOLD_20K,
+     IMPEDANCE_TEST_THRESHOLD_40K,
+ 
+关于阻抗灯：一开机是全部绿灯，然后过几秒变成黄灯是正确的，因为设备开启阻
+抗功能到计算好阻抗值再变换灯的颜色是需要一点时间的；
+如果实接阻抗是5K而设备上阈值也设5K那肯定是偶尔是黄灯，偶尔是绿灯啦，你
+不能接的阻抗值刚好在阈值线上；
+建议你们用万用表去测下电极线所接电阻是否=5K，如果阈值设40k还是偶尔是黄
+灯，偶尔是绿灯的话那用万用表去测电极线所接电阻肯定不止5K阻值。
+ 
+
+ 
+在 2014-01-24 14:16:22，"Wang Chuan Chu (I2R)" <ccwang@i2r.a-star.edu.sg> 写道：
+王先生，
+ 
+你好！
+ 
+我是新加坡I2R的员工。我正在开发基于你们脑电放大器EEG-D-2型的应用程序。目前我
+已经能够成功读出脑电信号，进展不错。
+ 
+现在困难在于如何用软件如何读出全部24个通道的阻抗信号。我们手头的放大器硬件阻
+抗测试很不稳定，所以更希望用你们提供的软件开发库来读通道阻抗信号，并显示在系统
+界面上。目前没有成功，希望得到你的帮助。
+ 
+从你们公司提供的文档中，我了解到有关阻抗测试的函数是：
+ 
+1.  HARDUSBDLL_API BOOL  SetImpTest(int *pChannel);//设置PC机阻抗测试结
+果// 入口参数维
+2.  HARDUSBDLL_API BOOL  Begin(DATA_TYPE dType);//开始采集， 
+3.  HARDUSBDLL_API UINT  ReadData(LPVOID pBuff, UINT nReadLen);//读数
+据函数
+ 
+其中Begin() 的参数可以设定为下列四个参数之一：
+ 
+     IMPEDANCE_TEST_THRESHOLD_5K,
+     IMPEDANCE_TEST_THRESHOLD_10K,
+     IMPEDANCE_TEST_THRESHOLD_15K,
+     IMPEDANCE_TEST_THRESHOLD_20K,
+     IMPEDANCE_TEST_THRESHOLD_40K,
+ 
+期望你能解释一下如何使用这些函数达到我们的目的。最好给我一个样本程序，能让我试
+一下。
+ 
+谢谢！
+ 
+--
+ 
+Thanks and Regards,
+Mr. Wang Chuanchu :: Senior Research Engineer :: Neural and Biomedical Technology Department :: Institute for 
+Infocomm Research(I2R) :: Agency for Science, Technology and Research (A*STAR) 
+1 Fusionopolis Way :: #21-01 Connexis (South Tower) :: Singapore 138632 :: DID: (65) 6408 2671 :: http://www.a-
+star.edu.sg  
+ 
+ 
+Institute for Infocomm Research disclaimer: "This email is confidential and may be privileged. 
+If you are not the intended recipient, please delete it and notify us immediately. Please do 
+not copy or use it for any purpose, or disclose its contents to any other person. Thank you."
+ 
+Institute for Infocomm Research disclaimer: "This email is confidential and may be privileged. 
+If you are not the intended recipient, please delete it and notify us immediately. Please do 
+not copy or use it for any purpose, or disclose its contents to any other person. Thank you."
+

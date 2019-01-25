@@ -1,0 +1,74 @@
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCISWork\bin\x86\Debug\BCIWork.exe.config
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\Debug\BCIWork.exe.config
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\Debug\filelist.txt
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\Debug\BCIWork.exe
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\Debug\BCIWork.pdb
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCISWork\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCISWork\obj\x86\Debug\BCIWork.DataUploadAgentForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCISWork\obj\x86\Debug\BCIWork.Properties.Resources.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCISWork\obj\x86\Debug\BCIWork.csproj.GenerateResource.Cache
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCISWork\obj\x86\Debug\BCIWork.exe
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu\BCISWork\obj\x86\Debug\BCIWork.pdb
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\Debug\BCIWork.exe.config
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCISWork\obj\x86\Debug\BCIWork.exe
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCISWork\obj\x86\Debug\BCIWork.pdb
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\Debug\filelist.txt
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\Debug\BCIWork.exe
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\Debug\BCIWork.pdb
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCISWork\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCISWork\obj\x86\Debug\BCIWork.DataUploadAgentForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCISWork\obj\x86\Debug\BCIWork.Properties.Resources.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov\BCISWork\obj\x86\Debug\BCIWork.csproj.GenerateResource.Cache
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.exe.config
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.exe
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.pdb
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\Debug\filelist.txt
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.exe
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.pdb
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.DataUploadAgentForm.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.Properties.Resources.resources
+H:\Work (Project, Development)\BCI FrameWork\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.csproj.GenerateResource.Cache
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.exe.config
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.exe
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.pdb
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\Debug\filelist.txt
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.exe
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.pdb
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.DataUploadAgentForm.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.Properties.Resources.resources
+C:\Users\Tiffany\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.exe.config
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.exe
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.pdb
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\Debug\filelist.txt
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.exe
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.pdb
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.DataUploadAgentForm.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.Properties.Resources.resources
+C:\Users\User\Documents\SRP\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.csproj.GenerateResource.Cache
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\Debug\filelist.txt
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.exe.config
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.exe
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.pdb
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.csprojResolveAssemblyReference.cache
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.DataUploadAgentForm.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.Properties.Resources.resources
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.csproj.GenerateResource.Cache
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.exe
+C:\Users\tzeji\Desktop\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.pdb
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\Debug\filelist.txt
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.exe.config
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.exe
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\Debug\BCIWork.pdb
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.DataUploadAgentForm.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.Properties.Resources.resources
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.csproj.GenerateResource.Cache
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.exe
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\Exported from Chuanchu 11 Nov 2014\BCISWork\obj\x86\Debug\BCIWork.pdb
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\BCIREBORN\Debug\BCIWork.exe.config
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\BCIREBORN\BCISWork\obj\x86\Debug\BCIWork.exe
+C:\Users\Nicholas\Documents\Science\JC 1\CenTad\Tiffany work\BCIREBORN\BCISWork\obj\x86\Debug\BCIWork.pdb

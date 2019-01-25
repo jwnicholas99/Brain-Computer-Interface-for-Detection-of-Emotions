@@ -1,0 +1,46 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly BCIProcEngine, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly BCILibCS, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class BCILib.Processor.P300Util: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    EEGChannelAverage(String): PrivateScope, Public, Static, HideBySig
+    TrainModel(String): PrivateScope, Public, Static, HideBySig
+    GetResult(CP300SignalProc*, Double[], UInt16[], Int32, Int32): PrivateScope, Public, Static, HideBySig
+Class BCILib.Processor.ProcEngine: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :BCILib.App.BCIEngine
+    Void .ctor(BCIProcType): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Properties:
+    IntPtr Processor 'get ' : 
+    Int32 NumChannelUsed 'get ' : 
+    Int32 NumSampleUsed 'get ' : 
+  Methods:
+    ProcEEGBuf(Single[], Int32, Int32): PrivateScope, Public, Virtual, HideBySig
+    Initialize(String): PrivateScope, Public, Virtual, HideBySig
+    Initialize(Hashtable): PrivateScope, Public, Virtual, HideBySig
+    SetFeedbackHandler(Delegate): PrivateScope, Public, Virtual, HideBySig
+    get_NumSampleUsed(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_NumChannelUsed(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_Processor(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    Free(): PrivateScope, Public, Virtual, HideBySig
+    SetRedirectConsole(SafeHandle): PrivateScope, Public, Static, HideBySig
+    ResetRedirectConsole(): PrivateScope, Public, Static, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig

@@ -1,0 +1,44 @@
+Resource	Global
+TypeName	BCILib.MotorImagery.ArtsBCI.ARTSBCIApp
+Timestamp	88CD484DB5CB76C8
+Timestamp-fmt	02/11/2010 10:35:12 AM
+InstalledDevices	FakeAmplifier_22BA879
+
+Resource	BCIConcentration
+CfgFiles	
+UserWithDate	True
+Subject	test
+DateString	
+
+Resource	MotorImageGame
+CfgFiles	
+UserWithDate	True
+Subject	test
+DateString	
+
+Resource	BCI_P300_Console
+CfgFiles	
+UserWithDate	True
+Subject	tester
+DateString	
+
+Resource	BCIMotorImagery
+CfgFiles	
+UserWithDate	True
+Subject	test
+DateString	
+
+Resource	FakeAmplifier_22BA879
+Type	FakeAmplifier
+ChannelNames	ch1, ch2, ch3, ch4, ch5, ch6, ch7, ch8
+DispSeconds	5
+NumChannel	8
+SampleRate	1000
+UsedChannels	ch1,ch2,ch3,ch4,ch5,ch6,ch7,ch8
+
+Resource	ARTSBCIApp
+CfgFiles	
+UserWithDate	True
+Subject	test
+DateString	
+

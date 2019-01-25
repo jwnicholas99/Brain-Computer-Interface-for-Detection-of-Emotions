@@ -1,0 +1,5 @@
+1 20140729\DataTraining\MI_LRI_1_2014-07-29_Training\MI_LRI_NeuroScan_17F1E45.cnt
+1 20140729\DataTraining\MI_LRI_1_2014-07-29_Training\MI_LRI_NeuroScan_17F1E45.cnt
+1 20140729\DataTraining\MI_LRI_2_2014-07-29_Training\MI_LRI_NeuroScan_17F1E45.cnt
+1 20140729\DataTraining\MI_LRI_3_2014-07-29_Training\MI_LRI_NeuroScan_17F1E45.cnt
+1 20141201\DataTraining\MI_2_2014-12-01_Training\MI_FakeAmplifier_2.cnt
